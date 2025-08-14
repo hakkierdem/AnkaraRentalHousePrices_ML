@@ -1,0 +1,1475 @@
+Unnamed: 0,County,Neighborhood,Room,Saloon,m2,Price,latitude,longitude
+0,Yenimahalle,Yeni Batı Mahallesi,1.0,1,55,35000,39.9744626,32.6967138
+1,Etimesgut,Süvari Mahallesi,3.0,1,125,23500,39.9487007,32.6455548
+2,Çankaya,Prof. Dr. Ahmet Taner Kışlalı Mahallesi,4.0,1,195,75000,39.8739193,32.6878754
+3,Çankaya,Erzurum Mahallesi,2.0,1,80,17000,39.9309574,32.8717502
+4,Çankaya,Konutkent Mahallesi,1.0,0,45,25000,39.877841,32.6679958
+5,Keçiören,Etlik Mahallesi,3.0,1,120,28500,39.9799604,32.8284002
+6,Sincan,Atatürk Mahallesi,3.0,1,160,30000,39.9641128,32.5816913
+7,Altındağ,Aydınlıkevler Mahallesi,1.0,1,75,21000,39.9627386,32.8748794
+8,Mamak,Mehtap Mahallesi,3.0,1,115,16000,39.9327491,32.897245
+9,Mamak,Şahintepe Mahallesi,3.0,1,120,22000,39.9189342,32.9165611
+10,Etimesgut,Yeni Bağlıca Mahallesi,3.5,1,165,53000,39.9007102,32.6397785
+11,Keçiören,Pınarbaşı Mahallesi,3.0,1,110,21000,40.002022,32.86543
+12,Yenimahalle,Çiğdemtepe Mahallesi,4.0,1,218,37000,39.9929077,32.7934763
+13,Mamak,Derbent Mahallesi,3.0,1,120,25500,39.9230539,32.9332978
+14,Keçiören,İncirli Mahallesi,2.0,1,115,10000,39.9845847,32.846361
+15,Etimesgut,Yeni Bağlıca Mahallesi,3.0,1,170,39000,39.9007102,32.6397785
+16,Yenimahalle,Avcılar Mahallesi,3.0,1,170,40000,39.9867879,32.7855435
+17,Mamak,Hüseyingazi Mahallesi,3.0,1,125,30000,39.9328255,32.9125214
+18,Keçiören,Aşağı Eğlence Mahallesi,3.0,1,110,25000,39.9715857,32.8378467
+19,Keçiören,Osmangazi Mahallesi,3.0,1,125,25000,40.0137581,32.8604171
+20,Beypazarı,Kurtuluş Mahallesi,2.0,1,75,24000,40.1600821,31.9158676
+21,Çankaya,Çamlıtepe Mahallesi,2.0,1,90,30000,39.9267691,32.8698635
+22,Sincan,Alcı Mahallesi,3.0,1,148,17500,,
+23,Polatlı,Şehitlik Mahallesi,3.0,1,120,15000,39.5821905,32.1259406
+24,Keçiören,İncirli Mahallesi,3.0,1,120,25000,39.9845847,32.846361
+25,Mamak,Karaağaç Mahallesi,3.0,1,110,17000,39.9371026,32.9224707
+26,Yenimahalle,Beştepe Mahallesi,2.0,1,90,35000,39.9243387,32.812235
+27,Çankaya,Fakülteler Mahallesi,3.0,1,125,30000,39.930093,32.8735174
+28,Altındağ,Aydınlıkevler Mahallesi,2.0,1,80,21000,39.9627386,32.8748794
+29,Keçiören,Etlik Mahallesi,3.0,1,120,39000,39.9799604,32.8284002
+30,Çankaya,Yaşamkent Mahallesi,1.0,1,55,32000,39.858413,32.6438736
+31,Çankaya,Yaşamkent Mahallesi,1.0,1,45,26500,39.858413,32.6438736
+32,Çankaya,Yaşamkent Mahallesi,1.0,1,35,23500,39.858413,32.6438736
+33,Mamak,Cengizhan Mahallesi,3.0,1,135,25000,39.9000451,32.9239483
+34,Keçiören,Karargahtepe Mahallesi,2.0,1,90,21000,39.97121,32.8607382
+35,Altındağ,Hacettepe Mahallesi,3.0,1,95,25000,39.9311536,32.8600444
+36,Keçiören,Bağlarbaşı Mahallesi,3.0,1,110,20500,39.9932896,32.8795626
+37,Yenimahalle,Demetgül Mahallesi,3.0,1,130,21000,39.96265,32.7945377
+38,Etimesgut,Piyade Mahallesi,3.0,1,120,27000,39.9509373,32.6379972
+39,Mamak,Diriliş Mahallesi,3.0,1,120,23000,39.9514066,32.9017354
+40,Yenimahalle,Demetlale Mahallesi,3.0,1,130,25000,39.9634391,32.7902555
+41,Keçiören,Emrah Mahallesi,2.0,1,100,26000,39.974167,32.8460721
+42,Sincan,Yunus Emre Mahallesi,3.5,1,120,19000,39.9779999,32.599985
+43,Keçiören,İncirli Mahallesi,2.0,1,100,17500,39.9845847,32.846361
+44,Etimesgut,Kazım Karabekir Mahallesi,3.0,1,120,25000,39.9486211,32.659962
+45,Çankaya,İşçi Blokları Mahallesi,3.0,1,110,37000,39.8935146,32.7982283
+46,Etimesgut,Atayurt Mahallesi,3.0,1,137,21000,39.8419009,32.5398583
+47,Sincan,Menderes Mahallesi,3.0,1,145,26000,40.0053079,32.5305332
+48,Keçiören,Bağlarbaşı Mahallesi,3.0,1,115,22000,39.9932896,32.8795626
+49,Etimesgut,Topçu Mahallesi,3.0,1,130,26000,39.9544543,32.6162905
+50,Yenimahalle,Beştepe Mahallesi,3.0,1,110,40500,39.9243387,32.812235
+51,Yenimahalle,Yeni Batı Mahallesi,1.0,1,65,35000,39.9744626,32.6967138
+52,Etimesgut,Bağlıca Mahallesi,4.0,1,175,51500,39.8940734,32.6480435
+53,Altındağ,Beşikkaya Mahallesi,2.0,1,95,11000,39.9700956,32.9476632
+54,Keçiören,Şehit Kubilay Mahallesi,3.0,1,115,23000,39.9929026,32.8082444
+55,Etimesgut,Atayurt Mahallesi,2.0,1,94,16000,39.8419009,32.5398583
+56,Altındağ,Gültepe Mahallesi,2.0,1,95,19000,39.9487494,32.8849449
+57,Altındağ,Gültepe Mahallesi,2.0,1,85,25000,39.9487494,32.8849449
+58,Gölbaşı,Bahçelievler Mahallesi,2.0,1,105,33000,39.789888,32.8072715
+59,Altındağ,Hacettepe Mahallesi,1.0,1,70,38500,39.9311536,32.8600444
+60,Çankaya,Harbiye Mahallesi,3.0,1,120,25000,39.8909554,32.838563
+61,Çankaya,Birlik Mahallesi,4.0,1,140,32000,39.8793835,32.8801712
+62,Çankaya,Prof. Dr. Ahmet Taner Kışlalı Mahallesi,4.0,1,195,75000,39.8739193,32.6878754
+63,Sincan,Akşemsettin Mahallesi,2.0,1,100,18000,39.96683,32.5895634
+64,Keçiören,Yükseltepe Mahallesi,3.0,1,125,24000,40.0006432,32.8077829
+65,Çankaya,Yaşamkent Mahallesi,2.0,1,95,35000,39.858413,32.6438736
+66,Sincan,Fatih Mahallesi,2.0,1,90,20000,39.9892521,32.5876386
+67,Keçiören,İncirli Mahallesi,2.0,1,85,19000,39.9845847,32.846361
+68,Çankaya,Yukarı Bahçelievler Mahallesi,1.0,1,60,38000,39.9221083,32.8261127
+69,Çankaya,Cebeci Mahallesi,2.0,1,75,14000,39.9325248,32.8781919
+70,Keçiören,Ayvalı Mahallesi,2.0,1,110,19500,39.9833642,32.8182536
+71,Çankaya,Alacaatlı Mahallesi,1.0,1,75,31500,39.8478748,32.6747922
+72,Altındağ,Yıldıztepe Mahallesi,3.0,1,150,29000,39.9744275,32.90475
+73,Keçiören,Yayla Mahallesi,3.0,1,110,26500,39.9920925,32.8292426
+74,Yenimahalle,Ergazi Mahallesi,3.0,1,120,35000,39.9569294,32.7111062
+75,Gölbaşı,Örencik Mahallesi,1.0,1,55,18500,39.781067,32.834237
+76,Gölbaşı,Bahçelievler Mahallesi,2.0,1,95,22500,39.789888,32.8072715
+77,Keçiören,Etlik Mahallesi,3.0,1,175,45000,39.9799604,32.8284002
+78,Keçiören,Sancaktepe Mahallesi,3.0,1,115,23000,39.9961177,32.8129904
+79,Keçiören,Şenlik Mahallesi,3.0,1,120,25000,39.9959239,32.8704206
+80,Yenimahalle,Demetevler Mahallesi,3.0,1,115,23500,39.9687718,32.7846709
+81,Keçiören,Şenyuva Mahallesi,3.0,1,140,25000,40.011987,32.8952648
+82,Sincan,Malazgirt Mahallesi,5.0,1,220,29000,39.9566483,32.5705119
+83,Mamak,Cengizhan Mahallesi,3.0,1,120,25000,39.9000451,32.9239483
+84,Mamak,General Zeki Doğan Mahallesi,3.0,1,95,21000,39.9167721,32.9061676
+85,Yenimahalle,Ragıp Tüzün Mahallesi,2.0,1,105,27000,39.9650023,32.8087623
+86,Sincan,Fatih Mahallesi,2.0,1,75,14300,39.9892521,32.5876386
+87,Çubuk,Esenboğa Merkez Mahallesi,2.0,1,80,17000,,
+88,Çankaya,Emek Mahallesi,3.0,1,120,40000,39.9222107,32.8174961
+89,Çubuk,Esenboğa Merkez Mahallesi,2.0,1,80,17000,,
+90,Çankaya,Emek Mahallesi,3.0,1,120,40000,39.9222107,32.8174961
+91,Çankaya,Yücetepe Mahallesi,2.0,1,65,29000,39.9207809,32.8408492
+92,Çankaya,Yukarı Bahçelievler Mahallesi,2.0,1,80,37000,39.9221083,32.8261127
+93,Etimesgut,Şeyh Şamil Mahallesi,2.0,1,120,30000,39.9983957,32.6295384
+94,Polatlı,Şehitlik Mahallesi,3.0,1,120,15000,39.5821905,32.1259406
+95,Sincan,Andiçen Mahallesi,3.0,1,115,20000,39.9535468,32.5841885
+96,Mamak,Abidinpaşa Mahallesi,3.0,1,135,22000,39.928423,32.8869226
+97,Sincan,Selçuklu Mahallesi,3.0,1,110,20000,39.9538197,32.5988363
+98,Mamak,Şahintepe Mahallesi,3.0,1,100,18500,39.9189342,32.9165611
+99,Etimesgut,Yeni Bağlıca Mahallesi,3.0,1,175,42000,39.9007102,32.6397785
+100,Etimesgut,Bağlıca Mahallesi,4.0,1,203,59000,39.8940734,32.6480435
+101,Gölbaşı,İncek Mahallesi,1.0,1,65,25000,39.8075431,32.6973502
+102,Etimesgut,Eryaman Mahallesi,2.0,1,85,29000,39.9722971,32.6212797
+103,Çankaya,Bahçelievler Mahallesi,4.0,1,150,39000,39.9278078,32.8264893
+104,Gölbaşı,İncek Mahallesi,1.0,1,49,14500,39.8075431,32.6973502
+105,Yenimahalle,İnönü Mahallesi,3.0,1,110,27000,39.9533428,32.7219775
+106,Çubuk,Yıldırım Beyazıt Mahallesi,3.0,1,165,25000,40.2336564,33.0457239
+107,Keçiören,Ayvalı Mahallesi,3.0,1,150,35000,39.9833642,32.8182536
+108,Mamak,Çağlayan Mahallesi,3.0,1,120,22500,39.9286716,32.9107271
+109,Çankaya,Yücetepe Mahallesi,3.0,1,110,26000,39.9207809,32.8408492
+110,Mamak,Demirlibahçe Mahallesi,3.0,1,120,22500,39.9365913,32.8825623
+111,Yenimahalle,İnönü Mahallesi,3.0,1,115,26500,39.9533428,32.7219775
+112,Çankaya,Arka Topraklık Mahallesi,2.0,1,95,18000,,
+113,Çankaya,Çamlıtepe Mahallesi,3.0,1,100,23000,39.9267691,32.8698635
+114,Sincan,Fevzi Çakmak Mahallesi,3.0,1,145,27500,40.0128919,32.5172466
+115,Keçiören,İncirli Mahallesi,6.0,1,300,30000,39.9845847,32.846361
+116,Keçiören,İncirli Mahallesi,3.0,1,110,21000,39.9845847,32.846361
+117,Çankaya,Maltepe Mahallesi,2.0,1,65,35000,39.9245796,32.845407
+118,Mamak,Durali Alıç Mahallesi,3.0,1,150,29999,39.9029715,32.9308802
+119,Keçiören,İncirli Mahallesi,3.0,1,110,21000,39.9845847,32.846361
+120,Çankaya,Maltepe Mahallesi,2.0,1,65,35000,39.9245796,32.845407
+121,Mamak,Durali Alıç Mahallesi,3.0,1,150,29999,39.9029715,32.9308802
+122,Mamak,Abidinpaşa Mahallesi,3.0,1,135,22000,39.928423,32.8869226
+123,Keçiören,Uyanış Mahallesi,2.0,1,90,18500,40.0073378,32.8668194
+124,Keçiören,İncirli Mahallesi,2.0,1,100,16000,39.9845847,32.846361
+125,Mamak,Fahri Korutürk Mahallesi,3.0,1,125,23000,39.9099498,32.9227993
+126,Mamak,Şirintepe Mahallesi,3.0,1,120,18000,39.9148073,32.9236783
+127,Mamak,Abidinpaşa Mahallesi,2.0,1,90,17500,39.928423,32.8869226
+128,Yenimahalle,Gayret Mahallesi,3.0,1,110,36000,39.9591081,32.8110175
+129,Çankaya,Maltepe Mahallesi,1.0,1,75,41000,39.9245796,32.845407
+130,Mamak,Hüseyingazi Mahallesi,2.0,1,85,24000,39.9328255,32.9125214
+131,Mamak,Durali Alıç Mahallesi,3.0,1,135,25000,39.9029715,32.9308802
+132,Keçiören,Kuşcağız Mahallesi,3.0,1,120,25000,39.9946817,32.8518525
+133,Keçiören,Yayla Mahallesi,3.0,1,135,30000,39.9920925,32.8292426
+134,Çankaya,Hilal Mahallesi,4.0,1,210,80000,39.8688676,32.8560354
+135,Çankaya,Bahçelievler Mahallesi,2.0,1,80,28000,39.9278078,32.8264893
+136,Akyurt,Balıkhisar Mahallesi,1.0,1,55,25000,40.1024748,32.9994355
+137,Çankaya,Oran Mahallesi,2.0,1,120,37000,39.8475718,32.8236051
+138,Etimesgut,Tunahan Mahallesi,1.0,1,60,22000,39.9860189,32.6232237
+139,Keçiören,Şehit Kubilay Mahallesi,3.0,1,120,23500,39.9929026,32.8082444
+140,Etimesgut,Piyade Mahallesi,3.0,1,130,26500,39.9509373,32.6379972
+141,Yenimahalle,Mehmet Akif Ersoy Mahallesi,2.0,1,75,31750,39.9662907,32.7715145
+142,Yenimahalle,Burç Mahallesi,3.0,1,130,20000,39.9874526,32.801643
+143,Altındağ,Karacaören Mahallesi,2.0,1,100,15600,40.0329033,32.9209737
+144,Çankaya,Çankaya Mahallesi,3.0,1,160,40000,39.8906596,32.8617668
+145,Çankaya,Konutkent Mahallesi,1.0,1,50,24750,39.877841,32.6679958
+146,Yenimahalle,Demetevler Mahallesi,3.0,1,135,34000,39.9687718,32.7846709
+147,Mamak,Demirlibahçe Mahallesi,3.0,1,130,27500,39.9365913,32.8825623
+148,Çankaya,Kazım Özalp Mahallesi,2.0,1,80,32000,39.8931202,32.8697628
+149,Sincan,Çoğlu Mahallesi,3.0,1,130,25000,40.0159388,32.5410205
+150,Sincan,Osmanlı Mahallesi,3.0,1,130,20000,39.9479488,32.5819215
+151,Sincan,İstasyon Mahallesi,3.0,1,130,32000,39.9697924,32.5821159
+152,Yenimahalle,Yeni Batı Mahallesi,1.0,1,65,30000,39.9744626,32.6967138
+153,Çankaya,Yukarı Bahçelievler Mahallesi,2.0,1,100,63000,39.9221083,32.8261127
+154,Sincan,Mareşal Çakmak Mahallesi,3.0,1,130,1750000,39.9622534,32.5870211
+155,Sincan,Fevzi Çakmak Mahallesi,3.0,1,145,26000,40.0128919,32.5172466
+156,Sincan,Saraycık Mahallesi,4.0,1,180,33000,39.9388091,32.5771045
+157,Sincan,Pınarbaşı Mahallesi,3.0,1,135,25000,39.9494709,32.5704168
+158,Keçiören,İncirli Mahallesi,3.0,1,130,33000,39.9845847,32.846361
+159,Keçiören,Aşağı Eğlence Mahallesi,2.0,1,85,22500,39.9715857,32.8378467
+160,Akyurt,Balıkhisar Mahallesi,1.0,1,55,25000,40.1024748,32.9994355
+161,Çankaya,Büyükesat Mahallesi,3.0,1,140,30000,39.8923503,32.8769596
+162,Çankaya,Cevizlidere Mahallesi,3.0,1,145,45000,39.8850486,32.8167413
+163,Pursaklar,Saray Cumhuriyet Mahallesi,2.0,1,90,24000,40.073594,32.9354818
+164,Sincan,Hürriyet Mahallesi,3.0,1,150,15000,39.953579,32.5909807
+165,Yenimahalle,Pamuklar Mahallesi,3.0,1,130,30000,39.9829753,32.8074181
+166,Çankaya,Beytepe Mahallesi,1.0,1,60,35000,39.8564127,32.7405291
+167,Çankaya,Yukarı Bahçelievler Mahallesi,1.0,1,50,40000,39.9221083,32.8261127
+168,Yenimahalle,Yunus Emre Mahallesi,3.0,1,160,35000,39.9683128,32.8124025
+169,Çubuk,Yıldırım Beyazıt Mahallesi,3.0,1,138,18000,40.2336564,33.0457239
+170,Keçiören,Etlik Mahallesi,3.0,1,125,27000,39.9799604,32.8284002
+171,Yenimahalle,Yeni Batı Mahallesi,1.0,1,70,30000,39.9744626,32.6967138
+172,Çankaya,Birlik Mahallesi,3.0,1,100,35000,39.8793835,32.8801712
+173,Etimesgut,Şehit Osman Avcı Mahallesi,2.0,1,100,23000,39.9792655,32.6539061
+174,Etimesgut,Eryaman Mahallesi,1.0,1,60,19750,39.9722971,32.6212797
+175,Kızılcahamam,Yenice Mahallesi,1.0,1,55,700000,40.4697106,32.6391349
+176,Yenimahalle,Yeni Batı Mahallesi,1.0,1,65,30000,39.9744626,32.6967138
+177,Sincan,Plevne Mahallesi,3.0,1,120,15000,39.9649906,32.5972253
+178,Yenimahalle,Kentkoop Mahallesi,3.0,1,110,28000,39.965282,32.7260379
+179,Yenimahalle,Yuvaköy Mahallesi,2.0,1,85,39000,40.0203817,32.7265363
+180,Yenimahalle,Ostim Mahallesi,4.0,1,145,40000,39.9837314,32.7496094
+181,Sincan,Fevzi Çakmak Mahallesi,3.0,1,135,25500,40.0128919,32.5172466
+182,Altındağ,Yıldıztepe Mahallesi,3.0,1,125,27000,39.9744275,32.90475
+183,Altındağ,Hacettepe Mahallesi,1.0,1,85,41000,39.9311536,32.8600444
+184,Mamak,Gülveren Mahallesi,3.0,1,120,25000,39.9438122,32.894704
+185,Çankaya,Cebeci Mahallesi,3.0,1,120,25000,39.9325248,32.8781919
+186,Çankaya,Cebeci Mahallesi,2.0,1,90,25000,39.9325248,32.8781919
+187,Mamak,Demirlibahçe Mahallesi,3.0,1,120,18000,39.9365913,32.8825623
+188,Çankaya,Ertuğrulgazi Mahallesi,3.0,1,100,23000,39.9266737,32.8808702
+189,Mamak,Demirlibahçe Mahallesi,1.0,1,70,20000,39.9365913,32.8825623
+190,Mamak,Demirlibahçe Mahallesi,2.0,1,90,20000,39.9365913,32.8825623
+191,Çankaya,Fakülteler Mahallesi,3.0,1,100,30000,39.930093,32.8735174
+192,Çankaya,Çamlıtepe Mahallesi,3.0,1,105,25000,39.9267691,32.8698635
+193,Çankaya,Umut Mahallesi,5.0,1,200,42500,39.9058554,32.8746033
+194,Mamak,Demirlibahçe Mahallesi,3.0,1,110,22000,39.9365913,32.8825623
+195,Yenimahalle,Turgut Özal Mahallesi,3.0,1,135,42000,39.9900292,32.7159693
+196,Çankaya,Cebeci Mahallesi,2.0,1,75,25000,39.9325248,32.8781919
+197,Çankaya,Maltepe Mahallesi,3.0,1,125,32000,39.9245796,32.845407
+198,Yenimahalle,Demetevler Mahallesi,3.0,1,120,22500,39.9687718,32.7846709
+199,Pursaklar,Saray Osmangazi Mahallesi,1.0,1,30,16000,40.0670721,32.9289235
+200,Çankaya,Dumlupınar Mahallesi,4.0,1,200,53000,39.8520647,32.852091
+201,Çankaya,Küçükesat Mahallesi,3.0,1,110,30000,39.907811,32.8669788
+202,Etimesgut,Tunahan Mahallesi,1.0,1,65,23000,39.9860189,32.6232237
+203,Çankaya,Remzi Oğuz Arık Mahallesi,3.0,1,130,41000,39.9072111,32.8598419
+204,Keçiören,Kavacık Subayevleri Mahallesi,3.0,1,120,22000,39.9687615,32.8700836
+205,Çankaya,Bayraktar Mahallesi,3.0,1,120,23000,39.9010321,32.8786122
+206,Gölbaşı,İncek Mahallesi,3.0,1,150,10000,39.8075431,32.6973502
+207,Keçiören,Ayvalı Mahallesi,3.0,1,135,24000,39.9833642,32.8182536
+208,Keçiören,19 Mayıs Mahallesi,3.0,1,135,22000,39.9873869,32.8532851
+209,Çankaya,Ümit Mahallesi,4.0,1,155,45000,39.8944452,32.6985364
+210,Çankaya,Keklik Pınarı Mahallesi,3.0,1,115,23500,39.866777,32.8230422
+211,Sincan,Andiçen Mahallesi,3.0,1,135,30999,39.9535468,32.5841885
+212,Çankaya,100. Yıl Mahallesi,3.0,1,170,30000,39.9005605,32.870189
+213,Polatlı,Kurtuluş Mahallesi,5.0,1,175,15000,39.5809187,32.1384644
+214,Yenimahalle,Demetlale Mahallesi,3.0,1,100,25000,39.9634391,32.7902555
+215,Polatlı,Fatih Mahallesi,3.0,1,135,13500,39.5775119,32.129141
+216,Keçiören,Aşağı Eğlence Mahallesi,3.0,1,120,23000,39.9715857,32.8378467
+217,Çankaya,Aşağı Öveçler Mahallesi,1.0,1,75,26500,39.8893871,32.8266983
+218,Keçiören,19 Mayıs Mahallesi,3.0,1,125,18500,39.9873869,32.8532851
+219,Çankaya,Bahçelievler Mahallesi,2.0,1,110,40000,39.9278078,32.8264893
+220,Altındağ,Battalgazi Mahallesi,2.0,1,95,15000,39.9667414,32.926961
+221,Çankaya,Emek Mahallesi,1.0,1,60,40000,39.9222107,32.8174961
+222,Çankaya,Bahçelievler Mahallesi,3.0,1,120,43000,39.9278078,32.8264893
+223,Mamak,Şehit Cengiz Topel Mahallesi,3.0,1,175,35000,39.9192154,32.8794858
+224,Keçiören,Güzelyurt Mahallesi,3.0,1,125,23000,40.0045004,32.885804
+225,Yenimahalle,Aşağı Yahyalar Mahallesi,1.0,1,70,23000,39.9819708,32.7744614
+226,Sincan,Pınarbaşı Mahallesi,3.0,1,125,20500,39.9494709,32.5704168
+227,Sincan,Fevzi Çakmak Mahallesi,1.0,1,60,21000,40.0128919,32.5172466
+228,Sincan,Plevne Mahallesi,3.0,1,125,22000,39.9649906,32.5972253
+229,Çankaya,Keklik Pınarı Mahallesi,3.0,1,110,40000,39.866777,32.8230422
+230,Çankaya,Bahçelievler Mahallesi,3.0,1,115,45000,39.9278078,32.8264893
+231,Çankaya,Bahçelievler Mahallesi,3.0,1,120,55000,39.9278078,32.8264893
+232,Yenimahalle,Gazi Mahallesi,1.0,1,50,36000,39.9441968,32.8132357
+233,Yenimahalle,Gazi Mahallesi,1.0,1,50,35000,39.9441968,32.8132357
+234,Yenimahalle,25 Mart Mahallesi,2.0,1,105,26000,39.9546282,32.7938713
+235,Altındağ,Yıldıztepe Mahallesi,2.0,1,110,36500,39.9744275,32.90475
+236,Altındağ,Yıldıztepe Mahallesi,3.0,1,135,26500,39.9744275,32.90475
+237,Çankaya,Aşağı Öveçler Mahallesi,3.0,1,145,28000,39.8893871,32.8266983
+238,Mamak,Durali Alıç Mahallesi,3.0,1,135,35000,39.9029715,32.9308802
+239,Mamak,Durali Alıç Mahallesi,3.0,1,135,35000,39.9029715,32.9308802
+240,Yenimahalle,Avcılar Mahallesi,3.0,1,120,30000,39.9867879,32.7855435
+241,Etimesgut,Piyade Mahallesi,2.0,1,105,22000,39.9509373,32.6379972
+242,Etimesgut,Turkuaz Mahallesi,2.0,1,100,25000,39.813935,32.5702419
+243,Etimesgut,Topçu Mahallesi,2.0,1,110,23000,39.9544543,32.6162905
+244,Yenimahalle,Yunus Emre Mahallesi,3.0,1,160,35000,39.9683128,32.8124025
+245,Çankaya,Ayrancı Mahallesi,3.0,1,130,35000,39.9028644,32.8498192
+246,Çankaya,Metin Akkuş Mahallesi,3.0,1,125,35000,39.869753,32.8434339
+247,Etimesgut,Topçu Mahallesi,3.0,1,140,23000,39.9544543,32.6162905
+248,Çankaya,Birlik Mahallesi,4.0,1,150,31000,39.8793835,32.8801712
+249,Çankaya,Fakülteler Mahallesi,2.0,1,80,25000,39.930093,32.8735174
+250,Yenimahalle,Varlık Mahallesi,2.0,1,80,47500,39.9588988,32.8346157
+251,Keçiören,Ovacık Mahallesi,4.0,1,200,40000,40.009709,32.8319878
+252,Etimesgut,Göksu Mahallesi,4.0,1,177,67500,39.9898979,32.6411265
+253,Çankaya,Anıttepe Mahallesi,2.0,1,140,52000,39.9314478,32.840637
+254,Çankaya,Emek Mahallesi,2.0,1,100,28000,39.9222107,32.8174961
+255,Çankaya,Şehit Cevdet Özdemir Mahallesi,2.5,1,95,23000,39.8822092,32.8333949
+256,Yenimahalle,İnönü Mahallesi,2.0,1,115,55000,39.9533428,32.7219775
+257,Sincan,Menderes Mahallesi,3.0,1,130,29500,40.0053079,32.5305332
+258,Sincan,Mustafa Kemal Mahallesi,4.0,1,165,32000,40.0037498,32.5183528
+259,Çankaya,100. Yıl Mahallesi,6.0,2,300,65000,39.9005605,32.870189
+260,Keçiören,Basınevleri Mahallesi,1.0,1,55,22250,39.9696497,32.8531202
+261,Yenimahalle,Tepealtı Mahallesi,2.0,1,90,18000,39.9655907,32.8026752
+262,Yenimahalle,Esentepe Mahallesi,3.0,1,125,35000,39.9688422,32.8020938
+263,Etimesgut,Bağlıca Mahallesi,3.0,1,150,40000,39.8940734,32.6480435
+264,Etimesgut,Yeni Bağlıca Mahallesi,4.0,1,180,47000,39.9007102,32.6397785
+265,Etimesgut,Şehit Osman Avcı Mahallesi,1.0,0,35,17000,39.9792655,32.6539061
+266,Pursaklar,Saray Cumhuriyet Mahallesi,3.0,1,149,34500,40.073594,32.9354818
+267,Pursaklar,Saray Cumhuriyet Mahallesi,4.0,1,211,40000,40.073594,32.9354818
+268,Pursaklar,Saray Cumhuriyet Mahallesi,3.0,1,149,29500,40.073594,32.9354818
+269,Etimesgut,Atakent Mahallesi,3.0,1,110,32000,39.9525155,32.6100851
+270,Keçiören,Kanuni Mahallesi,3.0,1,120,31000,40.0207977,32.8589705
+271,Çankaya,Oran Mahallesi,1.0,1,65,35000,39.8475718,32.8236051
+272,Çankaya,Çamlıtepe Mahallesi,2.0,1,100,25250,39.9267691,32.8698635
+273,Çankaya,Bahçelievler Mahallesi,3.0,1,130,40000,39.9278078,32.8264893
+274,Çankaya,Yukarı Bahçelievler Mahallesi,3.0,1,125,35000,39.9221083,32.8261127
+275,Çankaya,Murat Mahallesi,3.0,1,130,30000,39.9020596,32.8744324
+276,Çankaya,Oran Mahallesi,4.0,1,212,95000,39.8475718,32.8236051
+277,Etimesgut,30 Ağustos Mahallesi,3.0,1,110,24000,39.9435499,32.6558978
+278,Etimesgut,Süvari Mahallesi,3.0,0,110,22000,39.9487007,32.6455548
+279,Etimesgut,Kazım Karabekir Mahallesi,3.0,1,125,27000,39.9486211,32.659962
+280,Keçiören,Bademlik Mahallesi,3.0,1,130,16500,40.011999,32.8740528
+281,Keçiören,Uyanış Mahallesi,3.0,1,125,26500,40.0073378,32.8668194
+282,Akyurt,Yeşiltepe Mahallesi,3.0,1,140,21000,40.1389577,33.089533
+283,Mamak,Şirintepe Mahallesi,2.0,1,100,17500,39.9148073,32.9236783
+284,Mamak,Durali Alıç Mahallesi,3.0,1,135,25500,39.9029715,32.9308802
+285,Sincan,Tandoğan Mahallesi,3.0,1,115,19000,39.9650862,32.5762283
+286,Etimesgut,Şehit Osman Avcı Mahallesi,1.0,0,55,23000,39.9792655,32.6539061
+287,Mamak,Akşemsettin Mahallesi,3.0,1,160,39999,39.9070655,32.9350097
+288,Mamak,Zirvekent Mahallesi,1.0,1,70,13250,39.8583371,32.9676194
+289,Mamak,Hüseyingazi Mahallesi,3.0,1,135,25000,39.9328255,32.9125214
+290,Yenimahalle,İnönü Mahallesi,4.0,1,200,69000,39.9533428,32.7219775
+291,Çankaya,Bahçelievler Mahallesi,3.0,1,120,33000,39.9278078,32.8264893
+292,Yenimahalle,Ergazi Mahallesi,3.0,1,125,31000,39.9569294,32.7111062
+293,Çankaya,Korkutreis Mahallesi,1.0,1,35,17000,39.926101,32.8517951
+294,Çankaya,Emek Mahallesi,2.0,1,80,31000,39.9222107,32.8174961
+295,Çankaya,Ayrancı Mahallesi,2.0,1,95,35000,39.9028644,32.8498192
+296,Keçiören,Bağlarbaşı Mahallesi,3.0,1,130,25000,39.9932896,32.8795626
+297,Gölbaşı,Taşpınar Mahallesi,2.0,1,85,36500,39.8306678,32.7588042
+298,Mamak,Başak Mahallesi,3.0,1,110,20000,39.9662363,32.9549787
+299,Mamak,Hürel Mahallesi,2.0,1,90,22000,39.9368979,32.8982825
+300,Akyurt,Yıldırım Mahallesi,3.0,1,115,14500,40.122443,33.0759373
+301,Çankaya,Konutkent Mahallesi,1.0,1,36,27500,39.877841,32.6679958
+302,Etimesgut,Topçu Mahallesi,3.0,1,110,25000,39.9544543,32.6162905
+303,Keçiören,Yükseltepe Mahallesi,4.0,1,200,40000,40.0006432,32.8077829
+304,Keçiören,Etlik Mahallesi,3.0,1,120,25000,39.9799604,32.8284002
+305,Çankaya,Kültür Mahallesi,4.0,1,180,45000,39.918059,32.8608941
+306,Yenimahalle,Mehmet Akif Ersoy Mahallesi,2.0,1,80,30250,39.9662907,32.7715145
+307,Keçiören,Aşağı Eğlence Mahallesi,2.0,1,85,22500,39.9715857,32.8378467
+308,Sincan,Tandoğan Mahallesi,2.0,1,90,16500,39.9650862,32.5762283
+309,Yenimahalle,Demetlale Mahallesi,1.0,1,90,18000,39.9634391,32.7902555
+310,Yenimahalle,Yeni Batı Mahallesi,4.0,1,175,45000,39.9744626,32.6967138
+311,Keçiören,Aşağı Eğlence Mahallesi,2.0,1,105,22500,39.9715857,32.8378467
+312,Çankaya,Karapınar Mahallesi,4.0,1,165,27000,39.8678622,32.8201851
+313,Yenimahalle,Turgut Özal Mahallesi,4.0,1,185,57000,39.9900292,32.7159693
+314,Çankaya,Bahçelievler Mahallesi,3.0,0,110,35000,39.9278078,32.8264893
+315,Mamak,Şirintepe Mahallesi,3.0,1,130,24000,39.9148073,32.9236783
+316,Mamak,Kıbrısköy Mahallesi,3.0,1,130,27000,39.8407165,32.9994451
+317,Mamak,Altıağaç Mahallesi,2.0,1,100,23500,39.940276,32.9185945
+318,Keçiören,İncirli Mahallesi,2.0,1,110,23000,39.9845847,32.846361
+319,Altındağ,Hacettepe Mahallesi,1.0,1,35,25000,39.9311536,32.8600444
+320,Yenimahalle,Batı Sitesi Mahallesi,1.0,1,70,24500,39.9634059,32.698525
+321,Altındağ,Solfasol Mahallesi,3.0,1,160,30000,39.9798282,32.9077874
+322,Mamak,Altınevler Mahallesi,3.0,1,135,24000,39.9508759,32.8943761
+323,Keçiören,Bademlik Mahallesi,3.0,1,105,13500,40.011999,32.8740528
+324,Keçiören,Şehit Kubilay Mahallesi,3.0,1,105,21000,39.9929026,32.8082444
+325,Polatlı,Fatih Mahallesi,3.0,1,140,19000,39.5775119,32.129141
+326,Polatlı,Zafer Mahallesi,3.0,1,115,12000,39.5781587,32.1419104
+327,Polatlı,Zafer Mahallesi,3.0,1,115,12000,39.5781587,32.1419104
+328,Çankaya,Alacaatlı Mahallesi,1.0,1,50,27000,39.8478748,32.6747922
+329,Polatlı,Şentepe Mahallesi,3.0,1,150,13000,39.5644641,32.1450555
+330,Yenimahalle,Tepealtı Mahallesi,3.0,1,165,46000,39.9655907,32.8026752
+331,Mamak,Balkiraz Mahallesi,2.0,1,90,15000,39.9324894,32.888608
+332,Etimesgut,Şeyh Şamil Mahallesi,1.0,1,58,24000,39.9983957,32.6295384
+333,Çankaya,100. Yıl Mahallesi,3.0,1,170,30000,39.9005605,32.870189
+334,Keçiören,Yayla Mahallesi,4.0,1,155,32000,39.9920925,32.8292426
+335,Etimesgut,Topçu Mahallesi,3.0,1,110,25000,39.9544543,32.6162905
+336,Etimesgut,Oğuzlar Mahallesi,3.0,1,110,26000,39.9460524,32.6058963
+337,Etimesgut,Oğuzlar Mahallesi,3.0,1,110,25000,39.9460524,32.6058963
+338,Çankaya,Küçükesat Mahallesi,1.0,1,90,37500,39.907811,32.8669788
+339,Etimesgut,Yavuz Selim Mahallesi,1.0,1,60,25900,39.9973354,32.6106209
+340,Sincan,Atatürk Mahallesi,3.0,1,130,17500,39.9641128,32.5816913
+341,Etimesgut,Aşağıyurtçu Mahallesi,2.0,1,120,23000,39.8146837,32.5367159
+342,Yenimahalle,Gayret Mahallesi,2.0,1,100,25000,39.9591081,32.8110175
+343,Çankaya,Kültür Mahallesi,3.0,1,125,32000,39.918059,32.8608941
+344,Altındağ,Güneşevler Mahallesi,4.0,1,165,44000,39.9715887,32.8866238
+345,Keçiören,Şefkat Mahallesi,3.0,1,90,15000,39.977612,32.8741329
+346,Çankaya,Ertuğrulgazi Mahallesi,2.0,1,85,18500,39.9266737,32.8808702
+347,Yenimahalle,Demetgül Mahallesi,3.0,1,130,19500,39.96265,32.7945377
+348,Mamak,Aşık Veysel Mahallesi,3.0,1,120,19500,39.9240176,32.8954237
+349,Mamak,Şirintepe Mahallesi,3.0,1,130,23000,39.9148073,32.9236783
+350,Sincan,Mareşal Çakmak Mahallesi,3.0,1,130,18000,39.9622534,32.5870211
+351,Mamak,Çağlayan Mahallesi,3.0,1,128,21500,39.9286716,32.9107271
+352,Yenimahalle,Barış Mahallesi,2.0,1,125,33000,39.9688178,32.7945411
+353,Yenimahalle,Yeni Batı Mahallesi,1.0,1,55,27000,39.9744626,32.6967138
+354,Yenimahalle,Ergazi Mahallesi,3.0,1,110,30000,39.9569294,32.7111062
+355,Yenimahalle,Yeni Batı Mahallesi,1.5,1,70,30000,39.9744626,32.6967138
+356,Mamak,Misket Mahallesi,4.0,1,155,30000,39.9256542,32.9138403
+357,Sincan,Tandoğan Mahallesi,3.0,1,105,18000,39.9650862,32.5762283
+358,Keçiören,Esertepe Mahallesi,3.0,1,132,25000,39.9925408,32.8345423
+359,Etimesgut,İstasyon Mahallesi,3.0,1,120,30000,39.9469837,32.6633365
+360,Sincan,Alcı Mahallesi,3.0,1,145,14500,,
+361,Keçiören,Tepebaşı Mahallesi,3.0,1,105,21000,39.9844422,32.8610263
+362,Çankaya,Mebusevleri Mahallesi,3.0,1,125,40000,39.9332874,32.8340217
+363,Çankaya,Büyükesat Mahallesi,3.0,1,135,55000,39.8923503,32.8769596
+364,Çankaya,İlkbahar Mahallesi,2.0,1,160,50000,39.8621563,32.8585944
+365,Çankaya,Koru Mahallesi,3.0,1,120,50000,39.8897575,32.6815613
+366,Yenimahalle,Mehmet Akif Ersoy Mahallesi,3.0,1,135,57500,39.9662907,32.7715145
+367,Yenimahalle,Ergenekon Mahallesi,3.0,1,115,17500,39.9750333,32.8103481
+368,Keçiören,Etlik Mahallesi,3.0,1,155,29000,39.9799604,32.8284002
+369,Keçiören,Çiçekli Mahallesi,3.0,1,125,20000,39.9822538,32.8566548
+370,Yenimahalle,Yeni Batı Mahallesi,2.0,1,90,40000,39.9744626,32.6967138
+371,Keçiören,Bağlarbaşı Mahallesi,3.0,1,170,22000,39.9932896,32.8795626
+372,Mamak,Şafaktepe Mahallesi,3.0,1,110,18000,39.9391045,32.8877333
+373,Çankaya,Sokullu Mehmet Paşa Mahallesi,3.0,1,125,27500,39.8926411,32.8337432
+374,Etimesgut,Atayurt Mahallesi,2.0,1,85,22000,39.8419009,32.5398583
+375,Çubuk,Dumlupınar Mahallesi,2.0,1,60,18500,40.123616,32.9411226
+376,Mamak,Diriliş Mahallesi,3.0,1,120,25000,39.9514066,32.9017354
+377,Yenimahalle,Beştepe Mahallesi,4.0,1,260,70000,39.9243387,32.812235
+378,Yenimahalle,Barıştepe Mahallesi,3.0,1,140,32500,39.9857196,32.7978884
+379,Sincan,Plevne Mahallesi,3.0,1,125,16500,39.9649906,32.5972253
+380,Keçiören,Emrah Mahallesi,2.0,1,100,20500,39.974167,32.8460721
+381,Keçiören,Aşağı Eğlence Mahallesi,3.0,1,125,21500,39.9715857,32.8378467
+382,Keçiören,Çiçekli Mahallesi,1.0,1,92,18000,39.9822538,32.8566548
+383,Çankaya,Bahçelievler Mahallesi,2.0,1,90,48000,39.9278078,32.8264893
+384,Altındağ,Aydınlıkevler Mahallesi,2.0,1,90,25000,39.9627386,32.8748794
+385,Keçiören,Esertepe Mahallesi,3.0,1,120,22000,39.9925408,32.8345423
+386,Gölbaşı,Seğmenler Mahallesi,3.0,1,115,30000,,
+387,Mamak,Altıağaç Mahallesi,3.0,1,110,25000,39.940276,32.9185945
+388,Etimesgut,İstasyon Mahallesi,2.0,1,90,26000,39.9469837,32.6633365
+389,Gölbaşı,Karşıyaka Mahallesi,3.0,1,150,35000,39.7968532,32.7978875
+390,Keçiören,Esertepe Mahallesi,3.0,1,128,25000,39.9925408,32.8345423
+391,Keçiören,Güçlükaya Mahallesi,3.0,1,120,25000,39.9832687,32.8695984
+392,Keçiören,İncirli Mahallesi,4.0,1,175,36000,39.9845847,32.846361
+393,Keçiören,Yükseltepe Mahallesi,3.0,1,138,25000,40.0006432,32.8077829
+394,Yenimahalle,Yunus Emre Mahallesi,3.0,1,125,30000,39.9683128,32.8124025
+395,Etimesgut,30 Ağustos Mahallesi,3.0,1,115,19000,39.9435499,32.6558978
+396,Çankaya,Çamlıtepe Mahallesi,2.0,1,90,35000,39.9267691,32.8698635
+397,Çankaya,Ayrancı Mahallesi,2.0,1,90,29000,39.9028644,32.8498192
+398,Etimesgut,Piyade Mahallesi,3.0,1,120,31000,39.9509373,32.6379972
+399,Mamak,Zirvekent Mahallesi,1.0,1,55,15500,39.8583371,32.9676194
+400,Sincan,Fevzi Çakmak Mahallesi,3.0,1,150,26000,40.0128919,32.5172466
+401,Çankaya,Cebeci Mahallesi,3.0,1,120,31500,39.9325248,32.8781919
+402,Keçiören,Ufuktepe Mahallesi,2.0,1,100,20000,40.0122692,32.8527711
+403,Gölbaşı,İncek Mahallesi,2.0,1,75,22500,39.8075431,32.6973502
+404,Keçiören,Bağlarbaşı Mahallesi,3.0,1,135,29000,39.9932896,32.8795626
+405,Etimesgut,Elvan Mahallesi,3.0,1,165,26000,39.9489178,32.6291227
+406,Sincan,Mareşal Çakmak Mahallesi,3.0,1,110,18500,39.9622534,32.5870211
+407,Altındağ,Kavaklı Mahallesi,3.0,1,160,22000,40.0021256,33.0465882
+408,Sincan,Ulubatlı Hasan Mahallesi,2.0,1,70,12500,39.9913946,32.5970093
+409,Yenimahalle,Demetgül Mahallesi,3.0,1,130,30000,39.96265,32.7945377
+410,Yenimahalle,İnönü Mahallesi,3.0,2,165,28000,39.9533428,32.7219775
+411,Sincan,Fevzi Çakmak Mahallesi,4.0,1,140,25000,40.0128919,32.5172466
+412,Sincan,Mareşal Çakmak Mahallesi,3.0,1,120,18000,39.9622534,32.5870211
+413,Sincan,Pınarbaşı Mahallesi,2.0,1,105,15750,39.9494709,32.5704168
+414,Sincan,Saraycık Mahallesi,2.0,1,100,21000,39.9388091,32.5771045
+415,Akyurt,Yeşiltepe Mahallesi,2.5,1,80,14000,40.1389577,33.089533
+416,Mamak,Ege Mahallesi,4.0,1,175,42000,39.9008874,32.9169558
+417,Etimesgut,Topçu Mahallesi,3.0,1,120,20000,39.9544543,32.6162905
+418,Keçiören,Ayvalı Mahallesi,2.0,1,90,15500,39.9833642,32.8182536
+419,Etimesgut,Yeşilova Mahallesi,4.0,1,165,52500,39.9647722,32.6045166
+420,Keçiören,Bağlarbaşı Mahallesi,3.0,1,125,23000,39.9932896,32.8795626
+421,Sincan,Andiçen Mahallesi,2.0,1,95,21000,39.9535468,32.5841885
+422,Keçiören,Şenlik Mahallesi,3.0,1,130,22750,39.9959239,32.8704206
+423,Polatlı,Fatih Mahallesi,3.0,1,140,19000,39.5775119,32.129141
+424,Mamak,General Zeki Doğan Mahallesi,2.0,1,95,18000,39.9167721,32.9061676
+425,Çankaya,Korkutreis Mahallesi,2.0,1,95,31000,39.926101,32.8517951
+426,Etimesgut,Ahi Mesut Mahallesi,3.0,1,130,35000,39.9343671,32.6385704
+427,Çankaya,Büyükesat Mahallesi,3.0,1,135,37000,39.8923503,32.8769596
+428,Etimesgut,Şehit Osman Avcı Mahallesi,1.0,1,50,18000,39.9792655,32.6539061
+429,Keçiören,Kanuni Mahallesi,3.0,1,130,30000,40.0207977,32.8589705
+430,Akyurt,Yeşiltepe Mahallesi,2.0,1,110,15500,40.1389577,33.089533
+431,Keçiören,Ayvalı Mahallesi,5.0,1,220,32500,39.9833642,32.8182536
+432,Yenimahalle,Mehmet Akif Ersoy Mahallesi,1.0,1,58,35000,39.9662907,32.7715145
+433,Keçiören,Yayla Mahallesi,3.0,1,120,29500,39.9920925,32.8292426
+434,Sincan,Selçuklu Mahallesi,2.0,1,103,16000,39.9538197,32.5988363
+435,Sincan,Mareşal Çakmak Mahallesi,3.0,1,126,16000,39.9622534,32.5870211
+436,Altındağ,Gültepe Mahallesi,2.0,1,110,19500,39.9487494,32.8849449
+437,Çankaya,Metin Akkuş Mahallesi,3.0,1,135,46000,39.869753,32.8434339
+438,Keçiören,Yayla Mahallesi,2.0,1,110,21000,39.9920925,32.8292426
+439,Çankaya,Öveçler Mahallesi,3.0,1,110,31500,39.8875322,32.8304861
+440,Çankaya,Maltepe Mahallesi,2.0,1,85,32000,39.9245796,32.845407
+441,Sincan,Selçuklu Mahallesi,3.0,1,120,21500,39.9538197,32.5988363
+442,Çankaya,Remzi Oğuz Arık Mahallesi,3.0,1,120,35000,39.9072111,32.8598419
+443,Yenimahalle,Gazi Mahallesi,2.0,1,55,41000,39.9441968,32.8132357
+444,Yenimahalle,Gazi Mahallesi,1.0,1,43,32000,39.9441968,32.8132357
+445,Çankaya,Yücetepe Mahallesi,1.0,1,60,35000,39.9207809,32.8408492
+446,Çankaya,Koru Mahallesi,3.0,1,115,50000,39.8897575,32.6815613
+447,Etimesgut,Süvari Mahallesi,3.0,1,120,29500,39.9487007,32.6455548
+448,Çankaya,Birlik Mahallesi,3.0,1,130,27500,39.8793835,32.8801712
+449,Gölbaşı,Karşıyaka Mahallesi,3.0,1,120,25000,39.7968532,32.7978875
+450,Yenimahalle,İnönü Mahallesi,2.0,1,115,55000,39.9533428,32.7219775
+451,Çankaya,Kızılırmak Mahallesi,4.0,1,200,90000,39.9054617,32.8111203
+452,Çankaya,Konutkent Mahallesi,1.0,1,50,23500,39.877841,32.6679958
+453,Çankaya,Konutkent Mahallesi,1.0,1,50,23000,39.877841,32.6679958
+454,Keçiören,Etlik Mahallesi,2.0,1,110,20000,39.9799604,32.8284002
+455,Keçiören,Esertepe Mahallesi,2.0,1,110,20000,39.9925408,32.8345423
+456,Yenimahalle,Kentkoop Mahallesi,2.0,1,90,25000,39.965282,32.7260379
+457,Çankaya,Anıttepe Mahallesi,1.0,1,60,35000,39.9314478,32.840637
+458,Çankaya,Kültür Mahallesi,2.0,1,80,28000,39.918059,32.8608941
+459,Çankaya,Remzi Oğuz Arık Mahallesi,1.0,1,45,34500,39.9072111,32.8598419
+460,Keçiören,Esertepe Mahallesi,2.0,1,100,16500,39.9925408,32.8345423
+461,Çankaya,Kocatepe Mahallesi,3.0,1,110,28000,39.9199852,32.8582095
+462,Çankaya,Öveçler Mahallesi,3.0,1,145,37500,39.8875322,32.8304861
+463,Etimesgut,Aşağıyurtçu Mahallesi,3.0,1,137,22000,39.8146837,32.5367159
+464,Çankaya,Metin Oktay Mahallesi,1.0,1,50,22500,39.9100219,32.8753577
+465,Keçiören,Yayla Mahallesi,3.0,1,105,21000,39.9920925,32.8292426
+466,Çankaya,İleri Mahallesi,3.0,1,110,24000,39.9216132,32.8691802
+467,Sincan,Malazgirt Mahallesi,3.0,1,130,21500,39.9566483,32.5705119
+468,Keçiören,Ayvalı Mahallesi,3.0,1,140,24000,39.9833642,32.8182536
+469,Şereflikoçhisar,İstiklal Mahallesi,3.0,1,150,18000,38.9294815,33.5500792
+470,Keçiören,Aşağı Eğlence Mahallesi,2.0,1,105,22500,39.9715857,32.8378467
+471,Etimesgut,İstasyon Mahallesi,2.0,1,100,30000,39.9469837,32.6633365
+472,Keçiören,Kalaba Mahallesi,3.0,1,125,23500,39.9766065,32.8648071
+473,Çankaya,Maltepe Mahallesi,3.0,1,110,39500,39.9245796,32.845407
+474,Çankaya,Maltepe Mahallesi,3.0,1,170,50000,39.9245796,32.845407
+475,Mamak,Şahintepe Mahallesi,3.0,1,110,18000,39.9189342,32.9165611
+476,Keçiören,Esertepe Mahallesi,2.0,1,110,15500,39.9925408,32.8345423
+477,Mamak,Şahintepe Mahallesi,3.0,1,110,18000,39.9189342,32.9165611
+478,Keçiören,Esertepe Mahallesi,2.0,1,110,15500,39.9925408,32.8345423
+479,Keçiören,Ayvalı Mahallesi,3.0,1,120,27500,39.9833642,32.8182536
+480,Mamak,Altıağaç Mahallesi,3.0,1,110,30000,39.940276,32.9185945
+481,Keçiören,Karşıyaka Mahallesi,3.0,1,120,19500,40.0520255,32.8450575
+482,Pursaklar,Yunus Emre Mahallesi,3.0,1,125,27500,40.0324196,32.8971405
+483,Etimesgut,Topçu Mahallesi,5.0,1,240,35000,39.9544543,32.6162905
+484,Keçiören,Çaldıran Mahallesi,2.0,1,95,11000,39.9876384,32.8883636
+485,Keçiören,İncirli Mahallesi,3.0,1,125,23000,39.9845847,32.846361
+486,Keçiören,İncirli Mahallesi,4.0,1,220,35000,39.9845847,32.846361
+487,Keçiören,İncirli Mahallesi,2.0,1,100,22000,39.9845847,32.846361
+488,Keçiören,Etlik Mahallesi,6.0,2,450,47500,39.9799604,32.8284002
+489,Pursaklar,Mimar Sinan Mahallesi,3.0,1,125,25000,40.032216,32.8860111
+490,Sincan,Mustafa Kemal Mahallesi,3.0,1,145,30000,40.0037498,32.5183528
+491,Keçiören,Pınarbaşı Mahallesi,4.0,1,130,24000,40.002022,32.86543
+492,Etimesgut,Ayyıldız Mahallesi,3.0,1,135,35000,39.9389392,32.6177422
+493,Etimesgut,Ahi Mesut Mahallesi,3.0,1,140,35000,39.9343671,32.6385704
+494,Çankaya,Anıttepe Mahallesi,1.0,1,45,27500,39.9314478,32.840637
+495,Çankaya,Yukarı Bahçelievler Mahallesi,2.0,1,70,53000,39.9221083,32.8261127
+496,Çankaya,Şehit Cengiz Karaca Mahallesi,3.0,1,140,29000,39.8748047,32.8303804
+497,Çankaya,Huzur Mahallesi,3.0,1,105,26500,39.8749037,32.8205341
+498,Mamak,Karaağaç Mahallesi,3.0,1,110,21000,39.9371026,32.9224707
+499,Altındağ,Örnek Mahallesi,3.0,1,110,18000,39.9561899,32.8728653
+500,Çankaya,Kültür Mahallesi,3.0,1,125,32000,39.918059,32.8608941
+501,Çankaya,Bahçelievler Mahallesi,1.0,1,80,40000,39.9278078,32.8264893
+502,Etimesgut,Turkuaz Mahallesi,4.0,1,195,29500,39.813935,32.5702419
+503,Etimesgut,Turkuaz Mahallesi,2.0,1,95,18500,39.813935,32.5702419
+504,Etimesgut,Turkuaz Mahallesi,3.0,1,132,25000,39.813935,32.5702419
+505,Etimesgut,Turkuaz Mahallesi,2.0,1,95,21500,39.813935,32.5702419
+506,Etimesgut,Turkuaz Mahallesi,2.0,1,95,17500,39.813935,32.5702419
+507,Sincan,İstasyon Mahallesi,3.0,1,115,21000,39.9697924,32.5821159
+508,Gölbaşı,Gaziosmanpaşa Mahallesi,1.0,1,55,22000,39.7919312,32.8037779
+509,Kahramankazan,Atatürk Mahallesi,3.0,1,130,23000,40.203868,32.6792445
+510,Çankaya,Bahçelievler Mahallesi,2.0,1,74,40000,39.9278078,32.8264893
+511,Sincan,Mareşal Çakmak Mahallesi,3.0,1,120,20000,39.9622534,32.5870211
+512,Çankaya,Şehit Cevdet Özdemir Mahallesi,3.0,1,135,30000,39.8822092,32.8333949
+513,Çankaya,Oran Mahallesi,4.0,1,165,100000,39.8475718,32.8236051
+514,Çankaya,Oran Mahallesi,4.0,1,175,109000,39.8475718,32.8236051
+515,Gölbaşı,İncek Mahallesi,1.0,1,55,17500,39.8075431,32.6973502
+516,Keçiören,Pınarbaşı Mahallesi,3.0,1,140,25500,40.002022,32.86543
+517,Yenimahalle,Karşıyaka Mahallesi,3.0,1,120,25000,39.9696634,32.7909984
+518,Etimesgut,Topçu Mahallesi,3.0,1,110,26000,39.9544543,32.6162905
+519,Çankaya,Yukarı Bahçelievler Mahallesi,3.0,1,110,40000,39.9221083,32.8261127
+520,Çankaya,Yaşamkent Mahallesi,1.0,1,45,25000,39.858413,32.6438736
+521,Çankaya,Yaşamkent Mahallesi,1.0,1,45,23000,39.858413,32.6438736
+522,Etimesgut,Erler Mahallesi,4.0,1,180,60000,39.9416749,32.6833439
+523,Çankaya,İşçi Blokları Mahallesi,4.5,1,196,90000,39.8935146,32.7982283
+524,Mamak,Abidinpaşa Mahallesi,3.0,1,100,18000,39.928423,32.8869226
+525,Çankaya,Cevizlidere Mahallesi,3.0,0,140,47000,39.8850486,32.8167413
+526,Etimesgut,Yeşilova Mahallesi,2.0,1,85,31000,39.9647722,32.6045166
+527,Altındağ,Örnek Mahallesi,2.0,1,70,15500,39.9561899,32.8728653
+528,Çankaya,İlkbahar Mahallesi,3.0,1,130,96000,39.8621563,32.8585944
+529,Çankaya,İlkadım Mahallesi,4.0,1,190,110000,39.8813875,32.8408806
+530,Çankaya,İlkbahar Mahallesi,2.0,1,110,46500,39.8621563,32.8585944
+531,Mamak,General Zeki Doğan Mahallesi,4.5,1,220,43900,39.9167721,32.9061676
+532,Keçiören,Aşağı Eğlence Mahallesi,3.0,1,120,26250,39.9715857,32.8378467
+533,Altındağ,Güneşevler Mahallesi,4.0,1,165,41500,39.9715887,32.8866238
+534,Etimesgut,Atayurt Mahallesi,3.0,1,118,26000,39.8419009,32.5398583
+535,Etimesgut,Atayurt Mahallesi,3.0,1,130,21000,39.8419009,32.5398583
+536,Gölbaşı,Karşıyaka Mahallesi,1.0,1,55,25000,39.7968532,32.7978875
+537,Çankaya,Gaziosmanpaşa Mahallesi,3.0,1,150,45000,39.8971118,32.8661926
+538,Gölbaşı,Bahçelievler Mahallesi,4.0,1,160,29500,39.789888,32.8072715
+539,Keçiören,İncirli Mahallesi,2.0,1,110,15500,39.9845847,32.846361
+540,Çankaya,Öveçler Mahallesi,3.0,1,125,30000,39.8875322,32.8304861
+541,Keçiören,Güçlükaya Mahallesi,3.0,1,135,35000,39.9832687,32.8695984
+542,Sincan,Tandoğan Mahallesi,5.0,1,230,35000,39.9650862,32.5762283
+543,Keçiören,Ufuktepe Mahallesi,3.0,1,125,22500,40.0122692,32.8527711
+544,Yenimahalle,Çamlıca Mahallesi,1.0,1,55,30500,39.9524496,32.7845755
+545,Yenimahalle,Beştepe Mahallesi,2.0,1,80,27000,39.9243387,32.812235
+546,Keçiören,Atapark Mahallesi,3.0,1,130,21000,40.007897,32.844849
+547,Çankaya,Sokullu Mehmet Paşa Mahallesi,2.0,1,100,25000,39.8926411,32.8337432
+548,Çankaya,Öveçler Mahallesi,2.0,1,95,25000,39.8875322,32.8304861
+549,Mamak,Harman Mahallesi,2.0,1,97,17500,39.9360678,32.9088086
+550,Polatlı,Şehitlik Mahallesi,3.0,1,145,24000,39.5821905,32.1259406
+551,Çankaya,Sağlık Mahallesi,1.0,1,85,15000,39.9260732,32.8580372
+552,Sincan,Törekent Mahallesi,4.0,1,180,36000,39.9895939,32.5585566
+553,Etimesgut,Atayurt Mahallesi,2.0,1,137,21000,39.8419009,32.5398583
+554,Keçiören,Kamil Ocak Mahallesi,2.0,1,95,19000,39.9842949,32.8807172
+555,Keçiören,Köşk Mahallesi,2.0,1,105,20000,40.0030298,32.8742415
+556,Sincan,Malazgirt Mahallesi,3.0,1,140,20000,39.9566483,32.5705119
+557,Etimesgut,Atayurt Mahallesi,3.0,1,137,20000,39.8419009,32.5398583
+558,Yenimahalle,Yeni Batı Mahallesi,2.0,1,85,42000,39.9744626,32.6967138
+559,Mamak,Durali Alıç Mahallesi,3.0,1,145,26500,39.9029715,32.9308802
+560,Altındağ,Karacaören Mahallesi,2.0,1,95,12500,40.0329033,32.9209737
+561,Etimesgut,Topçu Mahallesi,3.0,1,110,26000,39.9544543,32.6162905
+562,Çankaya,Yukarı Bahçelievler Mahallesi,1.0,1,60,36000,39.9221083,32.8261127
+563,Yenimahalle,Turgut Özal Mahallesi,4.0,1,175,50000,39.9900292,32.7159693
+564,Etimesgut,Tunahan Mahallesi,1.0,1,52,18000,39.9860189,32.6232237
+565,Etimesgut,Ayyıldız Mahallesi,2.0,1,90,27000,39.9389392,32.6177422
+566,Etimesgut,Aşağıyurtçu Mahallesi,3.0,1,118,18000,39.8146837,32.5367159
+567,Çankaya,Emek Mahallesi,4.0,1,130,38000,39.9222107,32.8174961
+568,Çankaya,Emek Mahallesi,1.0,1,55,35000,39.9222107,32.8174961
+569,Sincan,Fevzi Çakmak Mahallesi,3.0,1,130,24500,40.0128919,32.5172466
+570,Yenimahalle,Demetgül Mahallesi,2.0,1,100,22000,39.96265,32.7945377
+571,Keçiören,Emrah Mahallesi,2.0,1,115,25000,39.974167,32.8460721
+572,Mamak,Cengizhan Mahallesi,3.0,1,135,22000,39.9000451,32.9239483
+573,Yenimahalle,Demetlale Mahallesi,2.0,1,110,26000,39.9634391,32.7902555
+574,Yenimahalle,Demetgül Mahallesi,2.0,1,90,20000,39.96265,32.7945377
+575,Pursaklar,Fatih Mahallesi,3.0,1,125,22750,40.0400593,32.9014983
+576,Çankaya,100. Yıl Mahallesi,1.0,1,80,35000,39.9005605,32.870189
+577,Keçiören,Etlik Mahallesi,3.0,1,100,20000,39.9799604,32.8284002
+578,Çankaya,Cebeci Mahallesi,1.0,1,55,29500,39.9325248,32.8781919
+579,Çankaya,Yaşamkent Mahallesi,2.0,1,55,21000,39.858413,32.6438736
+580,Çankaya,Yıldızevler Mahallesi,5.0,1,260,47500,39.8764536,32.860692
+581,Çankaya,Kızılırmak Mahallesi,4.5,1,240,90000,39.9054617,32.8111203
+582,Etimesgut,Atakent Mahallesi,2.0,1,110,29000,39.9525155,32.6100851
+583,Mamak,Durali Alıç Mahallesi,3.0,1,130,36999,39.9029715,32.9308802
+584,Çankaya,Kırkkonaklar Mahallesi,3.0,1,160,38000,39.8916442,32.8860421
+585,Gölbaşı,Bahçelievler Mahallesi,1.0,1,58,30000,39.789888,32.8072715
+586,Keçiören,Yayla Mahallesi,2.0,1,100,26000,39.9920925,32.8292426
+587,Etimesgut,30 Ağustos Mahallesi,3.0,1,110,20000,39.9435499,32.6558978
+588,Sincan,Andiçen Mahallesi,3.0,1,120,18000,39.9535468,32.5841885
+589,Keçiören,Pınarbaşı Mahallesi,3.0,1,115,16500,40.002022,32.86543
+590,Sincan,Törekent Mahallesi,4.0,1,180,42500,39.9895939,32.5585566
+591,Etimesgut,Güzelkent Mahallesi,3.0,1,135,27000,39.9872497,32.6074042
+592,Etimesgut,Yavuz Selim Mahallesi,3.0,1,130,29000,39.9973354,32.6106209
+593,Etimesgut,Eryaman Mahallesi,3.0,1,125,27000,39.9722971,32.6212797
+594,Çankaya,Seyranbağları Mahallesi,2.0,1,80,25000,39.9159567,32.8665568
+595,Etimesgut,Eryaman Mahallesi,3.0,1,125,27000,39.9722971,32.6212797
+596,Çankaya,Seyranbağları Mahallesi,2.0,1,80,25000,39.9159567,32.8665568
+597,Yenimahalle,İlkyerleşim Mahallesi,3.0,1,145,34500,39.9737954,32.7277556
+598,Çankaya,Erzurum Mahallesi,2.0,1,80,30000,39.9309574,32.8717502
+599,Etimesgut,Yeşilova Mahallesi,2.0,1,76,35000,39.9647722,32.6045166
+600,Çankaya,Hilal Mahallesi,2.0,1,120,39000,39.8688676,32.8560354
+601,Mamak,Karaağaç Mahallesi,3.0,1,110,17500,39.9371026,32.9224707
+602,Mamak,Mehtap Mahallesi,3.0,1,115,20000,39.9327491,32.897245
+603,Sincan,Andiçen Mahallesi,3.0,1,120,20000,39.9535468,32.5841885
+604,Yenimahalle,Yeni Batı Mahallesi,4.0,1,190,50000,39.9744626,32.6967138
+605,Çankaya,Büyükesat Mahallesi,4.0,1,180,50000,39.8923503,32.8769596
+606,Keçiören,Kanuni Mahallesi,3.0,1,110,14000,40.0207977,32.8589705
+607,Kahramankazan,Atatürk Mahallesi,3.0,1,135,18000,40.203868,32.6792445
+608,Yenimahalle,Pamuklar Mahallesi,3.0,1,150,34000,39.9829753,32.8074181
+609,Gölbaşı,Seğmenler Mahallesi,3.0,1,125,25500,,
+610,Gölbaşı,Bahçelievler Mahallesi,1.0,1,55,29500,39.789888,32.8072715
+611,Gölbaşı,Seğmenler Mahallesi,1.0,1,60,22000,,
+612,Mamak,Hürel Mahallesi,2.0,1,95,16000,39.9368979,32.8982825
+613,Mamak,Türközü Mahallesi,1.0,1,60,35750,39.9119824,32.8873719
+614,Mamak,Fahri Korutürk Mahallesi,3.0,1,135,22000,39.9099498,32.9227993
+615,Çankaya,Akpınar Mahallesi,4.0,1,135,32000,39.8660015,32.8121339
+616,Çankaya,Malazgirt Mahallesi,3.0,1,135,26000,39.8702464,32.8301003
+617,Altındağ,Karapürçek Mahallesi,5.0,2,260,30000,39.9715113,32.9691378
+618,Polatlı,İstiklal Mahallesi,4.0,1,185,25500,39.576255,32.1576046
+619,Etimesgut,Devlet Mahallesi,3.0,1,110,45000,39.9772884,32.6066636
+620,Sincan,Plevne Mahallesi,3.0,1,110,18000,39.9649906,32.5972253
+621,Çankaya,Çiğdem Mahallesi,4.0,1,200,57000,39.8838377,32.8028892
+622,Çankaya,İşçi Blokları Mahallesi,2.0,1,100,32000,39.8935146,32.7982283
+623,Sincan,Menderes Mahallesi,3.0,1,130,30000,40.0053079,32.5305332
+624,Keçiören,Ovacık Mahallesi,4.0,1,200,51000,40.009709,32.8319878
+625,Keçiören,Etlik Mahallesi,3.0,1,110,28500,39.9799604,32.8284002
+626,Akyurt,Yıldırım Mahallesi,3.0,1,145,17000,40.122443,33.0759373
+627,Akyurt,Yıldırım Mahallesi,3.0,1,160,16500,40.122443,33.0759373
+628,Gölbaşı,Örencik Mahallesi,1.0,1,70,26500,39.781067,32.834237
+629,Etimesgut,Yapracık Mahallesi,4.5,1,200,55000,39.865294,32.5817705
+630,Çankaya,Seyranbağları Mahallesi,2.0,1,80,15000,39.9159567,32.8665568
+631,Etimesgut,Devlet Mahallesi,3.0,1,120,28000,39.9772884,32.6066636
+632,Çankaya,Güvenevler Mahallesi,2.0,1,105,45000,39.8965969,32.8552076
+633,Gölbaşı,Seğmenler Mahallesi,3.0,1,140,29750,,
+634,Yenimahalle,Demetlale Mahallesi,3.0,1,140,25500,39.9634391,32.7902555
+635,Keçiören,İncirli Mahallesi,4.0,1,220,34000,39.9845847,32.846361
+636,Gölbaşı,Taşpınar Mahallesi,1.0,1,50,26000,39.8306678,32.7588042
+637,Çankaya,Kültür Mahallesi,3.0,1,130,27000,39.918059,32.8608941
+638,Çankaya,Büyükesat Mahallesi,3.0,1,120,28000,39.8923503,32.8769596
+639,Pursaklar,Fatih Mahallesi,3.0,1,125,22000,40.0400593,32.9014983
+640,Gölbaşı,Şafak Mahallesi,3.0,1,125,23500,39.7957989,32.8093716
+641,Sincan,Menderes Mahallesi,3.0,1,130,30000,40.0053079,32.5305332
+642,Etimesgut,Alsancak Mahallesi,2.0,1,95,17500,39.9340199,32.6494081
+643,Sincan,Saraycık Mahallesi,3.0,1,133,35000,39.9388091,32.5771045
+644,Keçiören,Atapark Mahallesi,2.0,1,95,27000,40.007897,32.844849
+645,Gölbaşı,Taşpınar Mahallesi,1.0,1,50,27000,39.8306678,32.7588042
+646,Beypazarı,Başağaç Mahallesi,2.0,1,80,25000,40.1474991,31.907131
+647,Keçiören,Yükseltepe Mahallesi,2.0,1,92,13500,40.0006432,32.8077829
+648,Çankaya,Şehit Cevdet Özdemir Mahallesi,3.0,1,120,29000,39.8822092,32.8333949
+649,Mamak,Altıağaç Mahallesi,3.0,1,110,24000,39.940276,32.9185945
+650,Çankaya,Harbiye Mahallesi,2.0,1,80,22000,39.8909554,32.838563
+651,Altındağ,Gültepe Mahallesi,3.0,1,120,23000,39.9487494,32.8849449
+652,Çankaya,Konutkent Mahallesi,2.0,1,80,40000,39.877841,32.6679958
+653,Yenimahalle,Ragıp Tüzün Mahallesi,2.0,1,100,27000,39.9650023,32.8087623
+654,Keçiören,Etlik Mahallesi,1.0,1,60,28000,39.9799604,32.8284002
+655,Keçiören,Yayla Mahallesi,3.0,1,130,30000,39.9920925,32.8292426
+656,Keçiören,Etlik Mahallesi,3.0,1,150,35000,39.9799604,32.8284002
+657,Mamak,Akşemsettin Mahallesi,4.5,1,235,52000,39.9070655,32.9350097
+658,Çankaya,Büyükesat Mahallesi,2.0,1,115,25000,39.8923503,32.8769596
+659,Çankaya,Güvenevler Mahallesi,3.0,1,135,45000,39.8965969,32.8552076
+660,Çankaya,Harbiye Mahallesi,3.0,1,125,25000,39.8909554,32.838563
+661,Çankaya,İlkadım Mahallesi,2.0,1,110,28000,39.8813875,32.8408806
+662,Çankaya,Emek Mahallesi,2.0,1,80,38000,39.9222107,32.8174961
+663,Çankaya,Emek Mahallesi,3.0,1,110,35000,39.9222107,32.8174961
+664,Yenimahalle,Ragıp Tüzün Mahallesi,3.0,1,130,20000,39.9650023,32.8087623
+665,Çankaya,Şehit Cevdet Özdemir Mahallesi,1.0,1,50,25000,39.8822092,32.8333949
+666,Yenimahalle,Demetevler Mahallesi,3.0,1,130,32500,39.9687718,32.7846709
+667,Yenimahalle,Demetgül Mahallesi,3.0,1,120,32500,39.96265,32.7945377
+668,Yenimahalle,İvedikköy Mahallesi,1.0,0,85,25500,40.0071636,32.7779086
+669,Yenimahalle,Yakacık Mahallesi,3.0,1,130,30000,40.0428436,32.7657282
+670,Sincan,29 Ekim Mahallesi,3.0,1,130,26900,40.0130019,32.5308344
+671,Çankaya,Osman Temiz Mahallesi,3.0,1,150,28000,39.8753379,32.8364438
+672,Çubuk,Esenboğa Merkez Mahallesi,2.0,1,65,17750,,
+673,Mamak,Durali Alıç Mahallesi,3.0,1,130,36999,39.9029715,32.9308802
+674,Çankaya,İşçi Blokları Mahallesi,1.0,0,52,32000,39.8935146,32.7982283
+675,Keçiören,Yakacık Mahallesi,3.0,1,110,20000,39.9888014,32.867197
+676,Altındağ,Aydınlıkevler Mahallesi,1.5,1,75,13000,39.9627386,32.8748794
+677,Çankaya,Cevizlidere Mahallesi,3.0,1,140,49000,39.8850486,32.8167413
+678,Altındağ,Örnek Mahallesi,2.0,1,85,15000,39.9561899,32.8728653
+679,Keçiören,İncirli Mahallesi,3.0,1,125,23000,39.9845847,32.846361
+680,Çankaya,Büyükesat Mahallesi,1.0,1,65,40000,39.8923503,32.8769596
+681,Altındağ,Aydınlıkevler Mahallesi,2.0,0,65,20000,39.9627386,32.8748794
+682,Çankaya,Maltepe Mahallesi,2.0,1,75,25000,39.9245796,32.845407
+683,Çankaya,İlkadım Mahallesi,3.0,1,140,31000,39.8813875,32.8408806
+684,Keçiören,Esertepe Mahallesi,3.0,1,130,20000,39.9925408,32.8345423
+685,Keçiören,Kuşcağız Mahallesi,3.0,1,130,19450,39.9946817,32.8518525
+686,Keçiören,Aşağı Eğlence Mahallesi,3.0,1,125,25000,39.9715857,32.8378467
+687,Çankaya,Erzurum Mahallesi,2.0,1,90,28000,39.9309574,32.8717502
+688,Yenimahalle,Demetevler Mahallesi,3.0,1,130,35000,39.9687718,32.7846709
+689,Gölbaşı,İncek Mahallesi,2.0,1,74,29000,39.8075431,32.6973502
+690,Mamak,General Zeki Doğan Mahallesi,4.0,1,190,44999,39.9167721,32.9061676
+691,Keçiören,Şehit Kubilay Mahallesi,3.0,1,130,25000,39.9929026,32.8082444
+692,Mamak,Aşık Veysel Mahallesi,3.0,1,140,25000,39.9240176,32.8954237
+693,Çankaya,Ata Mahallesi,3.0,1,125,25900,39.8790592,32.8256654
+694,Keçiören,Uyanış Mahallesi,3.0,1,105,30000,40.0073378,32.8668194
+695,Yenimahalle,Ata Mahallesi,3.0,1,160,30000,40.0069573,32.6102469
+696,Etimesgut,Tunahan Mahallesi,3.0,1,98,25000,39.9860189,32.6232237
+697,Yenimahalle,Demetgül Mahallesi,3.0,1,135,22000,39.96265,32.7945377
+698,Mamak,Altıağaç Mahallesi,3.0,1,110,23000,39.940276,32.9185945
+699,Mamak,Akşemsettin Mahallesi,3.0,1,130,45000,39.9070655,32.9350097
+700,Polatlı,Fatih Mahallesi,3.0,1,120,15500,39.5775119,32.129141
+701,Yenimahalle,Demetlale Mahallesi,3.0,1,130,22000,39.9634391,32.7902555
+702,Sincan,Atatürk Mahallesi,1.0,1,70,1750,39.9641128,32.5816913
+703,Etimesgut,Atayurt Mahallesi,3.0,1,118,20000,39.8419009,32.5398583
+704,Çankaya,Yukarı Bahçelievler Mahallesi,2.0,1,85,33000,39.9221083,32.8261127
+705,Polatlı,Şentepe Mahallesi,3.0,1,145,20500,39.5644641,32.1450555
+706,Polatlı,Fatih Mahallesi,3.0,1,145,19000,39.5775119,32.129141
+707,Sincan,Malazgirt Mahallesi,3.0,1,130,18500,39.9566483,32.5705119
+708,Mamak,Bahçelerüstü Mahallesi,2.0,1,80,22000,39.9405637,32.895715
+709,Çankaya,İlkbahar Mahallesi,3.0,1,135,61000,39.8621563,32.8585944
+710,Sincan,Mustafa Kemal Mahallesi,3.0,1,125,23500,40.0037498,32.5183528
+711,Çankaya,İlkbahar Mahallesi,3.0,1,150,65000,39.8621563,32.8585944
+712,Çankaya,İlkbahar Mahallesi,3.5,1,130,96000,39.8621563,32.8585944
+713,Sincan,İstasyon Mahallesi,3.0,1,110,30000,39.9697924,32.5821159
+714,Çankaya,Korkutreis Mahallesi,2.0,1,80,15000,39.926101,32.8517951
+715,Keçiören,Basınevleri Mahallesi,2.0,1,95,18000,39.9696497,32.8531202
+716,Keçiören,Aşağı Eğlence Mahallesi,3.0,1,125,35000,39.9715857,32.8378467
+717,Keçiören,Kuşcağız Mahallesi,3.0,1,135,22000,39.9946817,32.8518525
+718,Gölbaşı,Şafak Mahallesi,3.0,1,120,23000,39.7957989,32.8093716
+719,Beypazarı,Hacıkara Mahallesi,3.0,1,165,22000,40.1527383,31.915381
+720,Keçiören,Ovacık Mahallesi,3.0,1,145,36500,40.009709,32.8319878
+721,Çankaya,Remzi Oğuz Arık Mahallesi,1.0,1,50,45000,39.9072111,32.8598419
+722,Yenimahalle,Yukarı Yahyalar Mahallesi,3.5,1,120,25000,39.9818517,32.7807997
+723,Mamak,Zirvekent Mahallesi,1.0,1,65,8000,39.8583371,32.9676194
+724,Keçiören,Atapark Mahallesi,1.0,1,75,16500,40.007897,32.844849
+725,Sincan,Menderes Mahallesi,2.0,1,80,19000,40.0053079,32.5305332
+726,Keçiören,Etlik Mahallesi,3.0,1,110,25000,39.9799604,32.8284002
+727,Sincan,Atatürk Mahallesi,1.0,1,65,25000,39.9641128,32.5816913
+728,Keçiören,Kuşcağız Mahallesi,3.0,1,110,20000,39.9946817,32.8518525
+729,Yenimahalle,Serhat Mahallesi,4.0,1,175,45000,39.9843715,32.7611521
+730,Pursaklar,Tevfik İleri Mahallesi,4.0,1,150,25000,40.0453988,32.9137692
+731,Keçiören,Ovacık Mahallesi,3.0,1,140,50000,40.009709,32.8319878
+732,Gölbaşı,Seğmenler Mahallesi,3.0,1,130,25000,,
+733,Çankaya,İlkbahar Mahallesi,1.0,1,67,32000,39.8621563,32.8585944
+734,Çankaya,İlkbahar Mahallesi,1.5,1,95,39500,39.8621563,32.8585944
+735,Gölbaşı,Seğmenler Mahallesi,3.0,1,120,28000,,
+736,Çankaya,Güvenevler Mahallesi,3.0,1,110,35500,39.8965969,32.8552076
+737,Sincan,Saraycık Mahallesi,2.0,1,103,20000,39.9388091,32.5771045
+738,Yenimahalle,Susuz Mahallesi,2.0,1,90,31000,40.0204091,32.6551222
+739,Keçiören,İncirli Mahallesi,3.0,1,95,20000,39.9845847,32.846361
+740,Yenimahalle,Beştepe Mahallesi,3.0,1,130,36500,39.9243387,32.812235
+741,Altındağ,Aydınlıkevler Mahallesi,2.0,1,100,21500,39.9627386,32.8748794
+742,Yenimahalle,Pamuklar Mahallesi,2.0,1,100,32000,39.9829753,32.8074181
+743,Çankaya,Keklik Pınarı Mahallesi,4.0,1,178,60000,39.866777,32.8230422
+744,Gölbaşı,İncek Mahallesi,3.0,1,120,35000,39.8075431,32.6973502
+745,Sincan,Selçuklu Mahallesi,3.0,1,125,17500,39.9538197,32.5988363
+746,Çankaya,Emek Mahallesi,4.0,1,160,55000,39.9222107,32.8174961
+747,Keçiören,Yükseltepe Mahallesi,3.5,1,155,38500,40.0006432,32.8077829
+748,Yenimahalle,İnönü Mahallesi,3.0,1,125,26000,39.9533428,32.7219775
+749,Çankaya,Yaşamkent Mahallesi,1.0,1,50,33000,39.858413,32.6438736
+750,Çankaya,Konutkent Mahallesi,1.0,1,40,22000,39.877841,32.6679958
+751,Çankaya,Konutkent Mahallesi,1.0,1,40,24500,39.877841,32.6679958
+752,Çankaya,Yaşamkent Mahallesi,1.0,1,40,23500,39.858413,32.6438736
+753,Keçiören,Şenyuva Mahallesi,4.0,1,150,22000,40.011987,32.8952648
+754,Keçiören,Emrah Mahallesi,3.0,1,130,25000,39.974167,32.8460721
+755,Keçiören,Bağlarbaşı Mahallesi,3.0,1,125,21000,39.9932896,32.8795626
+756,Keçiören,Yayla Mahallesi,4.0,1,160,31500,39.9920925,32.8292426
+757,Keçiören,Atapark Mahallesi,2.0,1,100,14000,40.007897,32.844849
+758,Etimesgut,Göksu Mahallesi,1.0,1,65,27500,39.9898979,32.6411265
+759,Çankaya,İlkbahar Mahallesi,3.0,1,130,58500,39.8621563,32.8585944
+760,Yenimahalle,Barıştepe Mahallesi,3.0,1,127,23000,39.9857196,32.7978884
+761,Çankaya,Aziziye Mahallesi,4.0,1,170,39000,39.8930557,32.8515239
+762,Polatlı,Cumhuriyet Mahallesi,2.0,1,110,15000,39.5832328,32.1466362
+763,Gölbaşı,Kızılcaşar Mahallesi,1.0,1,58,28780,39.8227276,32.732967
+764,Çankaya,Çankaya Mahallesi,4.0,1,170,55000,39.8906596,32.8617668
+765,Beypazarı,Başağaç Mahallesi,2.0,1,88,21000,40.1474991,31.907131
+766,Çankaya,Harbiye Mahallesi,2.0,1,90,20000,39.8909554,32.838563
+767,Mamak,Balkiraz Mahallesi,3.0,1,100,20000,39.9324894,32.888608
+768,Çankaya,Yaşamkent Mahallesi,1.0,1,55,31500,39.858413,32.6438736
+769,Çankaya,Yaşamkent Mahallesi,1.0,1,55,31500,39.858413,32.6438736
+770,Çankaya,Yaşamkent Mahallesi,1.0,1,55,31500,39.858413,32.6438736
+771,Çankaya,Yaşamkent Mahallesi,1.0,1,55,31500,39.858413,32.6438736
+772,Çankaya,Yaşamkent Mahallesi,1.0,1,50,25000,39.858413,32.6438736
+773,Yenimahalle,Emniyet Mahallesi,2.0,1,85,55000,39.9432702,32.8191242
+774,Keçiören,Etlik Mahallesi,3.0,1,120,21500,39.9799604,32.8284002
+775,Çankaya,Sokullu Mehmet Paşa Mahallesi,3.0,1,110,35000,39.8926411,32.8337432
+776,Pursaklar,Merkez Mahallesi,4.0,1,170,37000,40.0371641,32.8970859
+777,Çankaya,İleri Mahallesi,2.0,1,95,18500,39.9216132,32.8691802
+778,Altındağ,Yıldıztepe Mahallesi,2.0,1,100,33500,39.9744275,32.90475
+779,Yenimahalle,Yeşilevler Mahallesi,2.0,1,96,24000,39.9741161,32.7848148
+780,Mamak,Hüseyingazi Mahallesi,3.0,1,110,20500,39.9328255,32.9125214
+781,Mamak,General Zeki Doğan Mahallesi,4.0,1,190,46999,39.9167721,32.9061676
+782,Keçiören,Etlik Mahallesi,3.0,1,125,18000,39.9799604,32.8284002
+783,Keçiören,Yükseltepe Mahallesi,3.0,1,135,26000,40.0006432,32.8077829
+784,Keçiören,Atapark Mahallesi,3.0,1,140,25000,40.007897,32.844849
+785,Keçiören,Yükseltepe Mahallesi,2.0,1,110,23000,40.0006432,32.8077829
+786,Çankaya,Ayrancı Mahallesi,2.0,1,80,25000,39.9028644,32.8498192
+787,Gölbaşı,Şafak Mahallesi,3.0,1,130,28000,39.7957989,32.8093716
+788,Etimesgut,Yeşilova Mahallesi,3.0,1,120,45000,39.9647722,32.6045166
+789,Keçiören,Etlik Mahallesi,3.0,1,130,25000,39.9799604,32.8284002
+790,Yenimahalle,Çiğdemtepe Mahallesi,3.0,1,140,29500,39.9929077,32.7934763
+791,Yenimahalle,Susuz Mahallesi,1.0,1,75,21000,40.0204091,32.6551222
+792,Etimesgut,Yeşilova Mahallesi,2.0,1,89,30000,39.9647722,32.6045166
+793,Keçiören,Yeşiltepe Mahallesi,3.0,1,115,15500,39.9956537,32.8932891
+794,Çubuk,Yıldırım Beyazıt Mahallesi,3.0,1,135,16000,40.2336564,33.0457239
+795,Yenimahalle,Susuz Mahallesi,4.0,1,200,39500,40.0204091,32.6551222
+796,Çankaya,Ertuğrulgazi Mahallesi,3.0,0,105,19000,39.9266737,32.8808702
+797,Çankaya,Mürsel Uluç Mahallesi,3.0,1,130,29000,39.8638847,32.8330298
+798,Gölbaşı,Bahçelievler Mahallesi,2.0,1,100,32500,39.789888,32.8072715
+799,Çankaya,Büyükesat Mahallesi,2.0,1,101,56500,39.8923503,32.8769596
+800,Çankaya,Yukarı Dikmen Mahallesi,2.0,1,107,55000,39.8553094,32.845662
+801,Çankaya,Remzi Oğuz Arık Mahallesi,1.0,1,50,45000,39.9072111,32.8598419
+802,Mamak,Çağlayan Mahallesi,2.0,1,105,25000,39.9286716,32.9107271
+803,Çankaya,Kavaklıdere Mahallesi,3.0,1,100,30000,39.9133494,32.8578531
+804,Çankaya,Bahçelievler Mahallesi,3.0,1,120,45000,39.9278078,32.8264893
+805,Yenimahalle,Susuz Mahallesi,4.5,1,185,49000,40.0204091,32.6551222
+806,Sincan,Atatürk Mahallesi,3.0,1,115,17000,39.9641128,32.5816913
+807,Keçiören,Şefkat Mahallesi,2.0,1,125,16500,39.977612,32.8741329
+808,Keçiören,19 Mayıs Mahallesi,2.0,1,100,17500,39.9873869,32.8532851
+809,Çankaya,Huzur Mahallesi,3.0,1,145,28000,39.8749037,32.8205341
+810,Yenimahalle,Mehmet Akif Ersoy Mahallesi,2.0,1,80,31500,39.9662907,32.7715145
+811,Etimesgut,Altay Mahallesi,2.0,1,90,28500,39.972489,32.6447493
+812,Etimesgut,Aşağıyurtçu Mahallesi,3.0,1,118,19000,39.8146837,32.5367159
+813,Çankaya,Yücetepe Mahallesi,2.0,1,95,39500,39.9207809,32.8408492
+814,Çankaya,Ön Cebeci Mahallesi,1.0,1,55,31000,39.9253929,32.8657742
+815,Keçiören,Şehit Kubilay Mahallesi,3.0,1,139,28000,39.9929026,32.8082444
+816,Çankaya,Yukarı Dikmen Mahallesi,3.0,1,160,60000,39.8553094,32.845662
+817,Çankaya,Kırkkonaklar Mahallesi,2.0,1,110,45000,39.8916442,32.8860421
+818,Çankaya,Çukurambar Mahallesi,4.0,1,215,65000,39.9031304,32.8028578
+819,Çankaya,İncesu Mahallesi,1.0,1,62,35750,39.9202132,32.8670045
+820,Keçiören,Aşağı Eğlence Mahallesi,3.0,1,120,25000,39.9715857,32.8378467
+821,Keçiören,İncirli Mahallesi,3.0,1,120,25000,39.9845847,32.846361
+822,Etimesgut,Şehit Osman Avcı Mahallesi,1.0,0,38,18500,39.9792655,32.6539061
+823,Pursaklar,Mimar Sinan Mahallesi,4.0,1,200,40000,40.032216,32.8860111
+824,Etimesgut,Topçu Mahallesi,3.0,1,120,30500,39.9544543,32.6162905
+825,Etimesgut,Topçu Mahallesi,3.0,1,130,18500,39.9544543,32.6162905
+826,Çankaya,Huzur Mahallesi,3.0,1,125,24000,39.8749037,32.8205341
+827,Yenimahalle,Gayret Mahallesi,2.0,1,90,20000,39.9591081,32.8110175
+828,Gölbaşı,Eymir Mahallesi,2.0,1,95,25500,39.7977398,32.838659
+829,Çankaya,Konutkent Mahallesi,1.0,1,50,28000,39.877841,32.6679958
+830,Gölbaşı,Taşpınar Mahallesi,1.0,1,40,17500,39.8306678,32.7588042
+831,Yenimahalle,Çarşı Mahallesi,2.0,1,90,25000,39.9668507,32.8085746
+832,Keçiören,Yayla Mahallesi,3.0,1,128,25000,39.9920925,32.8292426
+833,Keçiören,Etlik Mahallesi,3.0,1,120,20000,39.9799604,32.8284002
+834,Gölbaşı,İncek Mahallesi,1.0,1,48,17250,39.8075431,32.6973502
+835,Etimesgut,Topçu Mahallesi,3.0,1,135,24000,39.9544543,32.6162905
+836,Yenimahalle,Yunus Emre Mahallesi,3.0,1,120,40000,39.9683128,32.8124025
+837,Çankaya,Fakülteler Mahallesi,2.0,1,110,20000,39.930093,32.8735174
+838,Çankaya,Büyükesat Mahallesi,1.0,1,75,47500,39.8923503,32.8769596
+839,Sincan,Pınarbaşı Mahallesi,2.0,1,90,17000,39.9494709,32.5704168
+840,Sincan,29 Ekim Mahallesi,3.0,1,114,20000,40.0130019,32.5308344
+841,Pursaklar,Mimar Sinan Mahallesi,3.0,1,120,22500,40.032216,32.8860111
+842,Keçiören,Aşağı Eğlence Mahallesi,3.0,1,120,25000,39.9715857,32.8378467
+843,Yenimahalle,Yeniçağ Mahallesi,3.0,1,105,23000,39.9648766,32.8137024
+844,Keçiören,Kamil Ocak Mahallesi,3.0,1,125,25000,39.9842949,32.8807172
+845,Keçiören,Şehit Kubilay Mahallesi,6.0,1,276,50000,39.9929026,32.8082444
+846,Altındağ,Aydınlıkevler Mahallesi,2.0,1,98,22000,39.9627386,32.8748794
+847,Çankaya,Ayrancı Mahallesi,2.0,1,110,35000,39.9028644,32.8498192
+848,Çankaya,İlkbahar Mahallesi,4.5,1,198,80000,39.8621563,32.8585944
+849,Keçiören,Güçlükaya Mahallesi,3.0,1,110,25000,39.9832687,32.8695984
+850,Çankaya,Yaşamkent Mahallesi,1.0,0,32,16500,39.858413,32.6438736
+851,Çankaya,Büyükesat Mahallesi,1.0,1,80,44000,39.8923503,32.8769596
+852,Çankaya,Yaşamkent Mahallesi,1.0,1,72,24500,39.858413,32.6438736
+853,Sincan,Yunus Emre Mahallesi,3.0,1,100,33750,39.9779999,32.599985
+854,Gölbaşı,Kızılcaşar Mahallesi,2.0,1,100,60000,39.8227276,32.732967
+855,Keçiören,Ufuktepe Mahallesi,2.0,1,95,16000,40.0122692,32.8527711
+856,Gölbaşı,Kızılcaşar Mahallesi,4.0,1,150,42000,39.8227276,32.732967
+857,Etimesgut,Yukarıyurtçu Mahallesi,2.0,1,85,25000,39.823077,32.5497806
+858,Sincan,Selçuklu Mahallesi,3.0,1,120,17000,39.9538197,32.5988363
+859,Çankaya,Remzi Oğuz Arık Mahallesi,1.0,1,50,47000,39.9072111,32.8598419
+860,Keçiören,Ayvalı Mahallesi,3.0,1,100,19000,39.9833642,32.8182536
+861,Mamak,Bayındır Mahallesi,3.0,1,115,3650000,39.8945787,33.0214367
+862,Sincan,Selçuklu Mahallesi,3.0,1,120,20000,39.9538197,32.5988363
+863,Yenimahalle,Ragıp Tüzün Mahallesi,3.0,1,100,25000,39.9650023,32.8087623
+864,Sincan,Akşemsettin Mahallesi,3.0,1,120,22000,39.96683,32.5895634
+865,Etimesgut,Oğuzlar Mahallesi,3.0,1,110,28000,39.9460524,32.6058963
+866,Çankaya,Kırkkonaklar Mahallesi,4.0,1,199,45000,39.8916442,32.8860421
+867,Gölbaşı,İncek Mahallesi,1.0,1,60,23500,39.8075431,32.6973502
+868,Keçiören,Aşağı Eğlence Mahallesi,3.0,1,115,20000,39.9715857,32.8378467
+869,Gölbaşı,Bahçelievler Mahallesi,1.0,1,40,23000,39.789888,32.8072715
+870,Yenimahalle,Mehmet Akif Ersoy Mahallesi,3.0,1,120,35100,39.9662907,32.7715145
+871,Yenimahalle,Mehmet Akif Ersoy Mahallesi,2.0,1,80,33500,39.9662907,32.7715145
+872,Keçiören,Yayla Mahallesi,3.0,1,140,24000,39.9920925,32.8292426
+873,Keçiören,Etlik Mahallesi,3.0,1,140,31000,39.9799604,32.8284002
+874,Çankaya,Harbiye Mahallesi,1.0,1,85,20000,39.8909554,32.838563
+875,Mamak,Türközü Mahallesi,1.0,0,58,35750,39.9119824,32.8873719
+876,Çankaya,Bahçelievler Mahallesi,3.0,1,135,50000,39.9278078,32.8264893
+877,Pursaklar,Saray Fatih Mahallesi,3.0,1,160,32000,40.0786967,32.9204739
+878,Çubuk,Esenboğa Merkez Mahallesi,1.0,1,60,15500,,
+879,Çankaya,Mustafa Kemal Mahallesi,1.0,1,75,55000,39.9103992,32.7680457
+880,Gölbaşı,Kızılcaşar Mahallesi,2.0,1,120,31000,39.8227276,32.732967
+881,Keçiören,Basınevleri Mahallesi,5.0,1,280,30000,39.9696497,32.8531202
+882,Keçiören,Ayvalı Mahallesi,3.0,1,120,23000,39.9833642,32.8182536
+883,Çankaya,Kültür Mahallesi,3.0,1,145,31500,39.918059,32.8608941
+884,Beypazarı,Başağaç Mahallesi,3.5,1,150,26000,40.1474991,31.907131
+885,Keçiören,Kuşcağız Mahallesi,2.0,1,95,15500,39.9946817,32.8518525
+886,Keçiören,Karargahtepe Mahallesi,4.0,1,190,29000,39.97121,32.8607382
+887,Çankaya,Kavaklıdere Mahallesi,3.0,1,120,37500,39.9133494,32.8578531
+888,Yenimahalle,İnönü Mahallesi,3.0,1,150,30000,39.9533428,32.7219775
+889,Gölbaşı,Eymir Mahallesi,2.0,1,85,21250,39.7977398,32.838659
+890,Sincan,Andiçen Mahallesi,3.0,1,120,19500,39.9535468,32.5841885
+891,Sincan,Menderes Mahallesi,3.0,1,130,32000,40.0053079,32.5305332
+892,Yenimahalle,Çiğdemtepe Mahallesi,3.0,1,125,20000,39.9929077,32.7934763
+893,Polatlı,Mehmet Akif Mahallesi,2.0,1,100,17000,39.5945776,32.1430935
+894,Mamak,Hüseyingazi Mahallesi,3.0,1,115,20500,39.9328255,32.9125214
+895,Mamak,Kartaltepe Mahallesi,3.0,1,130,25000,39.9278772,32.9017516
+896,Sincan,Alcı Mahallesi,3.0,1,145,13000,,
+897,Pursaklar,Ayyıldız Mahallesi,2.0,1,80,15000,40.0276091,32.8903299
+898,Keçiören,Atapark Mahallesi,4.0,1,230,46000,40.007897,32.844849
+899,Mamak,Karaağaç Mahallesi,2.0,1,85,17000,39.9371026,32.9224707
+900,Keçiören,Ayvalı Mahallesi,5.0,1,200,34500,39.9833642,32.8182536
+901,Yenimahalle,Yeni Batı Mahallesi,1.0,1,65,30000,39.9744626,32.6967138
+902,Yenimahalle,Kardelen Mahallesi,3.0,1,145,35500,39.9752494,32.705065
+903,Çankaya,Yukarı Dikmen Mahallesi,2.0,1,70,34000,39.8553094,32.845662
+904,Keçiören,İncirli Mahallesi,3.0,1,120,25000,39.9845847,32.846361
+905,Çankaya,İncesu Mahallesi,2.0,1,80,20000,39.9202132,32.8670045
+906,Keçiören,Esertepe Mahallesi,3.0,1,115,27500,39.9925408,32.8345423
+907,Çankaya,Yaşamkent Mahallesi,1.0,1,45,27000,39.858413,32.6438736
+908,Çankaya,İlkbahar Mahallesi,3.0,1,120,39500,39.8621563,32.8585944
+909,Mamak,Akşemsettin Mahallesi,3.0,1,140,37000,39.9070655,32.9350097
+910,Sincan,Saraycık Mahallesi,2.0,1,90,24000,39.9388091,32.5771045
+911,Etimesgut,Yapracık Mahallesi,2.0,1,95,25000,39.865294,32.5817705
+912,Yenimahalle,Barış Mahallesi,3.0,1,135,39500,39.9688178,32.7945411
+913,Keçiören,Ayvalı Mahallesi,3.0,1,115,21000,39.9833642,32.8182536
+914,Çankaya,Oran Mahallesi,3.0,1,115,32000,39.8475718,32.8236051
+915,Etimesgut,Topçu Mahallesi,2.0,1,105,25000,39.9544543,32.6162905
+916,Çankaya,Konutkent Mahallesi,1.0,1,57,27000,39.877841,32.6679958
+917,Çubuk,Dumlupınar Mahallesi,2.0,1,70,16000,40.123616,32.9411226
+918,Yenimahalle,Işınlar Mahallesi,3.0,1,140,35000,39.9614347,32.8151396
+919,Etimesgut,Tunahan Mahallesi,3.0,1,115,30000,39.9860189,32.6232237
+920,Yenimahalle,Yeni Batı Mahallesi,1.0,1,58,24000,39.9744626,32.6967138
+921,Çankaya,Alacaatlı Mahallesi,3.0,1,145,87000,39.8478748,32.6747922
+922,Gölbaşı,İncek Mahallesi,1.0,1,58,24000,39.8075431,32.6973502
+923,Etimesgut,Yeni Bağlıca Mahallesi,2.0,1,118,48000,39.9007102,32.6397785
+924,Mamak,Şafaktepe Mahallesi,4.0,1,200,30000,39.9391045,32.8877333
+925,Mamak,Akdere Mahallesi,3.0,1,130,21000,39.9210611,32.8858237
+926,Mamak,Cengizhan Mahallesi,3.0,1,145,27000,39.9000451,32.9239483
+927,Mamak,Mutlu Mahallesi,3.0,1,120,18500,39.906973,32.9037281
+928,Çankaya,Emek Mahallesi,3.0,1,110,45000,39.9222107,32.8174961
+929,Keçiören,Aşağı Eğlence Mahallesi,3.0,1,140,35000,39.9715857,32.8378467
+930,Çankaya,Yukarı Bahçelievler Mahallesi,3.0,1,130,37000,39.9221083,32.8261127
+931,Çankaya,Oğuzlar Mahallesi,2.0,1,70,43500,39.9009169,32.8169743
+932,Çankaya,Cevizlidere Mahallesi,3.0,1,95,27500,39.8850486,32.8167413
+933,Çankaya,Prof. Dr. Ahmet Taner Kışlalı Mahallesi,2.0,1,100,33000,39.8739193,32.6878754
+934,Altındağ,Gültepe Mahallesi,3.0,1,125,25000,39.9487494,32.8849449
+935,Yenimahalle,Beştepe Mahallesi,2.0,1,95,29000,39.9243387,32.812235
+936,Çankaya,Emek Mahallesi,3.0,1,100,35000,39.9222107,32.8174961
+937,Çankaya,Cebeci Mahallesi,3.0,1,110,20000,39.9325248,32.8781919
+938,Çankaya,Yıldızevler Mahallesi,4.0,1,200,42000,39.8764536,32.860692
+939,Çankaya,İlkadım Mahallesi,2.0,1,135,38500,39.8813875,32.8408806
+940,Gölbaşı,Kızılcaşar Mahallesi,2.0,1,110,60000,39.8227276,32.732967
+941,Çankaya,Oran Mahallesi,3.0,1,110,55000,39.8475718,32.8236051
+942,Gölbaşı,Taşpınar Mahallesi,1.0,1,45,23000,39.8306678,32.7588042
+943,Yenimahalle,Turgut Özal Mahallesi,3.0,1,145,43500,39.9900292,32.7159693
+944,Keçiören,Aşağı Eğlence Mahallesi,3.0,1,135,25000,39.9715857,32.8378467
+945,Mamak,Abidinpaşa Mahallesi,3.0,1,120,20500,39.928423,32.8869226
+946,Keçiören,Ayvalı Mahallesi,2.0,1,90,20000,39.9833642,32.8182536
+947,Yenimahalle,Demetevler Mahallesi,3.0,1,120,21500,39.9687718,32.7846709
+948,Yenimahalle,Yeni Batı Mahallesi,2.5,1,90,43750,39.9744626,32.6967138
+949,Keçiören,Emrah Mahallesi,3.0,1,110,19000,39.974167,32.8460721
+950,Pursaklar,Merkez Mahallesi,3.0,1,120,17000,40.0371641,32.8970859
+951,Altındağ,Güneşevler Mahallesi,3.0,1,125,28000,39.9715887,32.8866238
+952,Yenimahalle,Demetlale Mahallesi,3.0,1,135,25000,39.9634391,32.7902555
+953,Akyurt,Yıldırım Mahallesi,3.0,1,135,16500,40.122443,33.0759373
+954,Keçiören,Şenlik Mahallesi,3.0,1,125,30000,39.9959239,32.8704206
+955,Gölbaşı,Örencik Mahallesi,1.0,1,55,22300,39.781067,32.834237
+956,Çankaya,İlker Mahallesi,5.0,1,300,50000,39.8636221,32.8375161
+957,Keçiören,Yakacık Mahallesi,3.0,1,130,20500,39.9888014,32.867197
+958,Keçiören,Etlik Mahallesi,2.0,1,115,25000,39.9799604,32.8284002
+959,Keçiören,Aşağı Eğlence Mahallesi,2.0,1,100,18000,39.9715857,32.8378467
+960,Çankaya,Maltepe Mahallesi,2.0,1,75,26000,39.9245796,32.845407
+961,Keçiören,Şefkat Mahallesi,3.0,1,125,29500,39.977612,32.8741329
+962,Sincan,Fatih Mahallesi,3.0,1,125,25000,39.9892521,32.5876386
+963,Polatlı,Mehmet Akif Mahallesi,2.0,1,100,17000,39.5945776,32.1430935
+964,Keçiören,Kuşcağız Mahallesi,3.0,1,135,29000,39.9946817,32.8518525
+965,Etimesgut,Devlet Mahallesi,1.0,1,55,26500,39.9772884,32.6066636
+966,Keçiören,Şenlik Mahallesi,3.0,1,125,23000,39.9959239,32.8704206
+967,Polatlı,Gazi Mahallesi,1.0,1,65,21000,39.586444,32.1409014
+968,Polatlı,Gazi Mahallesi,1.0,1,70,18500,39.586444,32.1409014
+969,Polatlı,İstiklal Mahallesi,1.0,1,60,20000,39.576255,32.1576046
+970,Şereflikoçhisar,Ekici Mahallesi,5.0,1,180,13000,38.9357055,33.5430523
+971,Çankaya,Naci Çakır Mahallesi,2.0,1,85,36000,39.8777962,32.839235
+972,Yenimahalle,Yunus Emre Mahallesi,2.0,1,149,27000,39.9683128,32.8124025
+973,Çankaya,Maltepe Mahallesi,3.0,1,120,35000,39.9245796,32.845407
+974,Gölbaşı,Taşpınar Mahallesi,1.0,1,45,20500,39.8306678,32.7588042
+975,Çankaya,Hilal Mahallesi,5.0,1,330,61500,39.8688676,32.8560354
+976,Keçiören,Ayvalı Mahallesi,3.0,1,125,26500,39.9833642,32.8182536
+977,Gölbaşı,Taşpınar Mahallesi,4.0,1,225,78000,39.8306678,32.7588042
+978,Çankaya,Alacaatlı Mahallesi,1.0,0,40,15500,39.8478748,32.6747922
+979,Etimesgut,Turkuaz Mahallesi,2.0,1,100,20000,39.813935,32.5702419
+980,Çankaya,Remzi Oğuz Arık Mahallesi,2.0,1,90,31000,39.9072111,32.8598419
+981,Çankaya,Beytepe Mahallesi,3.0,1,155,47000,39.8564127,32.7405291
+982,Keçiören,Aşağı Eğlence Mahallesi,3.0,1,130,24000,39.9715857,32.8378467
+983,Etimesgut,Şehit Osman Avcı Mahallesi,1.0,1,58,24000,39.9792655,32.6539061
+984,Yenimahalle,Demetlale Mahallesi,2.0,1,100,28000,39.9634391,32.7902555
+985,Yenimahalle,Demetgül Mahallesi,2.0,1,75,25000,39.96265,32.7945377
+986,Yenimahalle,Demetgül Mahallesi,3.0,1,120,28500,39.96265,32.7945377
+987,Yenimahalle,Demetlale Mahallesi,2.0,1,100,20000,39.9634391,32.7902555
+988,Etimesgut,Atayurt Mahallesi,2.0,1,85,18000,39.8419009,32.5398583
+989,Altındağ,Gültepe Mahallesi,2.0,1,80,15000,39.9487494,32.8849449
+990,Mamak,Aşık Veysel Mahallesi,3.0,1,110,25000,39.9240176,32.8954237
+991,Gölbaşı,İncek Mahallesi,1.0,1,45,20750,39.8075431,32.6973502
+992,Gölbaşı,İncek Mahallesi,2.0,1,78,25250,39.8075431,32.6973502
+993,Polatlı,Yeni Mahallesi,3.0,1,135,13500,39.5780662,32.1470097
+994,Çankaya,Emek Mahallesi,4.0,1,150,55000,39.9222107,32.8174961
+995,Beypazarı,Hacıkara Mahallesi,3.0,1,150,22000,40.1527383,31.915381
+996,Keçiören,Yakacık Mahallesi,3.0,1,130,20500,39.9888014,32.867197
+997,Mamak,Bahçelerüstü Mahallesi,3.0,1,115,27000,39.9405637,32.895715
+998,Keçiören,Ayvalı Mahallesi,3.0,1,90,17000,39.9833642,32.8182536
+999,Çankaya,100. Yıl Mahallesi,3.0,1,115,30000,39.9005605,32.870189
+1000,Mamak,Bahçeleriçi Mahallesi,3.0,1,110,20000,39.9306666,32.9164947
+1001,Etimesgut,Tunahan Mahallesi,1.0,0,54,20000,39.9860189,32.6232237
+1002,Mamak,Aşık Veysel Mahallesi,1.0,1,50,23500,39.9240176,32.8954237
+1003,Keçiören,Aşağı Eğlence Mahallesi,3.0,1,120,21000,39.9715857,32.8378467
+1004,Çankaya,İlkbahar Mahallesi,3.0,1,130,36500,39.8621563,32.8585944
+1005,Yenimahalle,Yuvaköy Mahallesi,4.0,1,200,55000,40.0203817,32.7265363
+1006,Mamak,Demirlibahçe Mahallesi,1.0,1,55,31500,39.9365913,32.8825623
+1007,Yenimahalle,Yuvaköy Mahallesi,4.0,1,200,55000,40.0203817,32.7265363
+1008,Mamak,Demirlibahçe Mahallesi,1.0,1,55,31500,39.9365913,32.8825623
+1009,Çankaya,Bahçelievler Mahallesi,2.0,1,110,40000,39.9278078,32.8264893
+1010,Çankaya,İşçi Blokları Mahallesi,2.0,1,94,35000,39.8935146,32.7982283
+1011,Çankaya,Maltepe Mahallesi,1.0,0,119,25000,39.9245796,32.845407
+1012,Keçiören,Kamil Ocak Mahallesi,3.0,1,110,15000,39.9842949,32.8807172
+1013,Yenimahalle,Emniyet Mahallesi,2.0,1,90,30500,39.9432702,32.8191242
+1014,Polatlı,Gazi Mahallesi,3.0,1,115,12000,39.586444,32.1409014
+1015,Çankaya,Mimar Sinan Mahallesi,2.0,1,78,28250,39.9151646,32.8775929
+1016,Altındağ,Yıldıztepe Mahallesi,3.0,1,130,26000,39.9744275,32.90475
+1017,Mamak,Altıağaç Mahallesi,2.0,1,100,17500,39.940276,32.9185945
+1018,Mamak,Diriliş Mahallesi,1.0,1,100,21000,39.9514066,32.9017354
+1019,Yenimahalle,Gazi Mahallesi,1.0,0,55,20000,39.9441968,32.8132357
+1020,Keçiören,Ufuktepe Mahallesi,2.0,1,100,15500,40.0122692,32.8527711
+1021,Keçiören,İncirli Mahallesi,3.0,1,125,28000,39.9845847,32.846361
+1022,Keçiören,Şefkat Mahallesi,3.0,1,125,25500,39.977612,32.8741329
+1023,Pursaklar,Fatih Mahallesi,3.0,1,125,23750,40.0400593,32.9014983
+1024,Gölbaşı,Şafak Mahallesi,3.0,1,110,32000,39.7957989,32.8093716
+1025,Çankaya,Malazgirt Mahallesi,3.0,1,130,37500,39.8702464,32.8301003
+1026,Çankaya,Bayraktar Mahallesi,1.0,1,85,20500,39.9010321,32.8786122
+1027,Çankaya,Umut Mahallesi,3.0,1,120,29000,39.9058554,32.8746033
+1028,Çankaya,Remzi Oğuz Arık Mahallesi,3.0,1,110,32500,39.9072111,32.8598419
+1029,Sincan,Osmanlı Mahallesi,3.0,1,120,20000,39.9479488,32.5819215
+1030,Çankaya,Çukurambar Mahallesi,3.0,1,178,65000,39.9031304,32.8028578
+1031,Çankaya,İlkadım Mahallesi,3.0,1,110,27000,39.8813875,32.8408806
+1032,Keçiören,Ayvalı Mahallesi,3.0,1,135,25000,39.9833642,32.8182536
+1033,Keçiören,Ayvalı Mahallesi,3.0,1,115,25000,39.9833642,32.8182536
+1034,Keçiören,Esertepe Mahallesi,3.0,1,150,36000,39.9925408,32.8345423
+1035,Keçiören,İncirli Mahallesi,2.0,1,75,20750,39.9845847,32.846361
+1036,Yenimahalle,Yunus Emre Mahallesi,3.0,1,150,27000,39.9683128,32.8124025
+1037,Çankaya,Yaşamkent Mahallesi,1.0,1,35,24000,39.858413,32.6438736
+1038,Gölbaşı,Kızılcaşar Mahallesi,2.0,1,120,34000,39.8227276,32.732967
+1039,Çankaya,Yaşamkent Mahallesi,2.0,1,65,35000,39.858413,32.6438736
+1040,Çankaya,Konutkent Mahallesi,1.0,1,40,27000,39.877841,32.6679958
+1041,Çankaya,Konutkent Mahallesi,1.0,1,45,24000,39.877841,32.6679958
+1042,Çankaya,Yaşamkent Mahallesi,1.0,1,45,26000,39.858413,32.6438736
+1043,Çankaya,Yaşamkent Mahallesi,1.0,1,40,27000,39.858413,32.6438736
+1044,Çankaya,Konutkent Mahallesi,1.0,1,35,24000,39.877841,32.6679958
+1045,Çankaya,Yaşamkent Mahallesi,1.0,1,45,24000,39.858413,32.6438736
+1046,Çankaya,Yaşamkent Mahallesi,1.0,1,45,28000,39.858413,32.6438736
+1047,Çankaya,Yaşamkent Mahallesi,1.0,0,30,19000,39.858413,32.6438736
+1048,Çankaya,Aşağı Öveçler Mahallesi,2.0,1,99,37000,39.8893871,32.8266983
+1049,Çankaya,Kavaklıdere Mahallesi,3.0,1,159,40000,39.9133494,32.8578531
+1050,Çankaya,İlkbahar Mahallesi,3.5,1,150,65000,39.8621563,32.8585944
+1051,Çankaya,İlkbahar Mahallesi,2.0,1,120,40000,39.8621563,32.8585944
+1052,Çankaya,Aşıkpaşa Mahallesi,3.5,1,240,50000,39.9094774,32.8831469
+1053,Çankaya,Oran Mahallesi,3.5,1,165,60000,39.8475718,32.8236051
+1054,Yenimahalle,Yeni Batı Mahallesi,1.0,1,60,37500,39.9744626,32.6967138
+1055,Yenimahalle,Yukarı Yahyalar Mahallesi,3.0,1,125,18500,39.9818517,32.7807997
+1056,Çankaya,Mustafa Kemal Mahallesi,5.0,1,325,60000,39.9103992,32.7680457
+1057,Gölbaşı,Kızılcaşar Mahallesi,2.0,1,90,27500,39.8227276,32.732967
+1058,Etimesgut,Güzelkent Mahallesi,3.0,1,120,25000,39.9872497,32.6074042
+1059,Polatlı,Gazi Mahallesi,3.0,1,115,12000,39.586444,32.1409014
+1060,Yenimahalle,Gayret Mahallesi,2.0,1,90,20000,39.9591081,32.8110175
+1061,Keçiören,İncirli Mahallesi,3.0,1,110,24000,39.9845847,32.846361
+1062,Etimesgut,Topçu Mahallesi,3.0,1,145,23000,39.9544543,32.6162905
+1063,Keçiören,Kanuni Mahallesi,3.0,1,125,18000,40.0207977,32.8589705
+1064,Altındağ,Aydınlıkevler Mahallesi,2.0,1,105,25500,39.9627386,32.8748794
+1065,Çankaya,Oran Mahallesi,2.0,1,127,82000,39.8475718,32.8236051
+1066,Gölbaşı,İncek Mahallesi,2.0,1,85,24000,39.8075431,32.6973502
+1067,Çankaya,Osman Temiz Mahallesi,3.0,1,115,23000,39.8753379,32.8364438
+1068,Gölbaşı,Taşpınar Mahallesi,1.0,1,55,25000,39.8306678,32.7588042
+1069,Çankaya,Konutkent Mahallesi,3.0,1,134,53000,39.877841,32.6679958
+1070,Etimesgut,Elvan Mahallesi,3.0,1,120,22000,39.9489178,32.6291227
+1071,Keçiören,Kuşcağız Mahallesi,3.0,1,80,18000,39.9946817,32.8518525
+1072,Çankaya,Büyükesat Mahallesi,2.0,1,95,42000,39.8923503,32.8769596
+1073,Çankaya,Yücetepe Mahallesi,2.0,1,75,35000,39.9207809,32.8408492
+1074,Etimesgut,Devlet Mahallesi,3.0,1,125,32000,39.9772884,32.6066636
+1075,Yenimahalle,Susuz Mahallesi,4.0,1,185,39500,40.0204091,32.6551222
+1076,Polatlı,Şehitlik Mahallesi,3.0,1,145,15000,39.5821905,32.1259406
+1077,Gölbaşı,Kızılcaşar Mahallesi,1.0,1,65,33000,39.8227276,32.732967
+1078,Keçiören,Tepebaşı Mahallesi,2.5,1,120,19750,39.9844422,32.8610263
+1079,Gölbaşı,Seğmenler Mahallesi,3.0,1,140,27500,,
+1080,Altındağ,Gültepe Mahallesi,2.0,1,106,20500,39.9487494,32.8849449
+1081,Mamak,Demirlibahçe Mahallesi,4.0,1,250,30500,39.9365913,32.8825623
+1082,Keçiören,Kuşcağız Mahallesi,2.0,1,115,16500,39.9946817,32.8518525
+1083,Pursaklar,Merkez Mahallesi,3.0,1,105,18000,40.0371641,32.8970859
+1084,Çankaya,Sancak Mahallesi,6.0,1,280,45000,39.8722704,32.8632382
+1085,Çankaya,Hilal Mahallesi,3.0,1,130,30000,39.8688676,32.8560354
+1086,Etimesgut,30 Ağustos Mahallesi,3.0,1,110,22500,39.9435499,32.6558978
+1087,Sincan,Atatürk Mahallesi,3.0,1,130,16000,39.9641128,32.5816913
+1088,Gölbaşı,Şafak Mahallesi,3.0,1,110,20000,39.7957989,32.8093716
+1089,Gölbaşı,Bahçelievler Mahallesi,2.0,1,80,28500,39.789888,32.8072715
+1090,Keçiören,Aşağı Eğlence Mahallesi,2.0,1,120,22500,39.9715857,32.8378467
+1091,Sincan,Saraycık Mahallesi,3.0,1,120,25000,39.9388091,32.5771045
+1092,Gölbaşı,Taşpınar Mahallesi,3.0,1,110,30000,39.8306678,32.7588042
+1093,Yenimahalle,Özevler Mahallesi,3.0,1,120,21500,39.975155,32.7787923
+1094,Gölbaşı,Seğmenler Mahallesi,2.0,1,75,27000,,
+1095,Etimesgut,Atayurt Mahallesi,4.0,1,190,35000,39.8419009,32.5398583
+1096,Gölbaşı,Seğmenler Mahallesi,2.0,1,75,27000,,
+1097,Etimesgut,Atayurt Mahallesi,4.0,1,190,35000,39.8419009,32.5398583
+1098,Mamak,Abidinpaşa Mahallesi,3.0,1,95,20000,39.928423,32.8869226
+1099,Çankaya,Seyranbağları Mahallesi,1.0,1,50,18000,39.9159567,32.8665568
+1100,Keçiören,Tepebaşı Mahallesi,3.5,1,230,30000,39.9844422,32.8610263
+1101,Keçiören,Şenlik Mahallesi,3.0,1,95,22000,39.9959239,32.8704206
+1102,Çankaya,Huzur Mahallesi,3.0,1,130,30000,39.8749037,32.8205341
+1103,Etimesgut,Altay Mahallesi,1.0,1,65,23000,39.972489,32.6447493
+1104,Keçiören,Şenyuva Mahallesi,3.0,1,125,23000,40.011987,32.8952648
+1105,Pursaklar,Ayyıldız Mahallesi,2.0,1,70,18000,40.0276091,32.8903299
+1106,Sincan,Fatih Mahallesi,2.0,1,80,15000,39.9892521,32.5876386
+1107,Çankaya,Yıldızevler Mahallesi,2.0,1,90,37000,39.8764536,32.860692
+1108,Keçiören,Osmangazi Mahallesi,3.0,1,130,25500,40.0137581,32.8604171
+1109,Kahramankazan,Atatürk Mahallesi,3.0,1,155,27000,40.203868,32.6792445
+1110,Kahramankazan,Atatürk Mahallesi,2.0,1,110,18000,40.203868,32.6792445
+1111,Şereflikoçhisar,İstiklal Mahallesi,1.0,1,80,12000,38.9294815,33.5500792
+1112,Beypazarı,Hacıkara Mahallesi,3.0,1,140,19000,40.1527383,31.915381
+1113,Gölbaşı,İncek Mahallesi,1.0,1,45,22000,39.8075431,32.6973502
+1114,Gölbaşı,Taşpınar Mahallesi,1.0,1,50,22000,39.8306678,32.7588042
+1115,Yenimahalle,Demetlale Mahallesi,3.0,1,125,24500,39.9634391,32.7902555
+1116,Keçiören,Etlik Mahallesi,2.0,1,95,13500,39.9799604,32.8284002
+1117,Gölbaşı,Kızılcaşar Mahallesi,2.0,1,130,49000,39.8227276,32.732967
+1118,Etimesgut,Şehit Osman Avcı Mahallesi,1.0,0,38,17500,39.9792655,32.6539061
+1119,Etimesgut,Şeyh Şamil Mahallesi,2.0,1,75,25000,39.9983957,32.6295384
+1120,Çankaya,Yaşamkent Mahallesi,3.5,1,185,48500,39.858413,32.6438736
+1121,Mamak,Altınevler Mahallesi,3.0,1,125,25500,39.9508759,32.8943761
+1122,Yenimahalle,Yeni Batı Mahallesi,2.0,1,80,38000,39.9744626,32.6967138
+1123,Çankaya,Cebeci Mahallesi,1.0,1,45,28000,39.9325248,32.8781919
+1124,Mamak,Akşemsettin Mahallesi,3.0,1,135,30000,39.9070655,32.9350097
+1125,Keçiören,Kuşcağız Mahallesi,2.0,1,90,18500,39.9946817,32.8518525
+1126,Yenimahalle,Tepealtı Mahallesi,2.0,1,100,24000,39.9655907,32.8026752
+1127,Yenimahalle,Beştepe Mahallesi,2.0,1,95,34250,39.9243387,32.812235
+1128,Çankaya,Birlik Mahallesi,1.0,1,60,23500,39.8793835,32.8801712
+1129,Gölbaşı,Taşpınar Mahallesi,4.5,1,225,78000,39.8306678,32.7588042
+1130,Mamak,Mehtap Mahallesi,2.0,1,90,18500,39.9327491,32.897245
+1131,Keçiören,Karşıyaka Mahallesi,3.0,1,150,13250,40.0520255,32.8450575
+1132,Yenimahalle,Demetgül Mahallesi,3.0,1,140,20000,39.96265,32.7945377
+1133,Çankaya,Sokullu Mehmet Paşa Mahallesi,3.0,1,110,23000,39.8926411,32.8337432
+1134,Etimesgut,Yukarıyurtçu Mahallesi,3.0,1,118,18000,39.823077,32.5497806
+1135,Yenimahalle,Demetgül Mahallesi,3.0,1,120,19500,39.96265,32.7945377
+1136,Keçiören,Pınarbaşı Mahallesi,4.0,1,135,20000,40.002022,32.86543
+1137,Polatlı,Zafer Mahallesi,3.0,1,155,15000,39.5781587,32.1419104
+1138,Çankaya,Büyükesat Mahallesi,1.0,1,70,30000,39.8923503,32.8769596
+1139,Keçiören,Şefkat Mahallesi,3.0,0,110,20000,39.977612,32.8741329
+1140,Polatlı,Cumhuriyet Mahallesi,3.0,1,135,16000,39.5832328,32.1466362
+1141,Gölbaşı,İncek Mahallesi,1.0,1,50,18000,39.8075431,32.6973502
+1142,Pursaklar,Saray Cumhuriyet Mahallesi,3.0,1,140,29000,40.073594,32.9354818
+1143,Çankaya,Bahçelievler Mahallesi,4.0,1,150,85000,39.9278078,32.8264893
+1144,Çankaya,Bağcılar Mahallesi,1.0,1,110,45000,39.901288,32.8816882
+1145,Çankaya,Bayraktar Mahallesi,3.0,1,115,26000,39.9010321,32.8786122
+1146,Çankaya,Emek Mahallesi,3.0,1,105,29000,39.9222107,32.8174961
+1147,Mamak,Tuzluçayır Mahallesi,3.0,1,120,18500,39.9237579,32.9071088
+1148,Mamak,Diriliş Mahallesi,2.0,1,95,19000,39.9514066,32.9017354
+1149,Altındağ,Aydınlıkevler Mahallesi,2.0,1,85,25000,39.9627386,32.8748794
+1150,Çankaya,Büyükesat Mahallesi,1.0,1,65,35000,39.8923503,32.8769596
+1151,Çankaya,Kazım Özalp Mahallesi,1.0,1,75,40000,39.8931202,32.8697628
+1152,Çankaya,Büyükesat Mahallesi,1.0,1,70,25000,39.8923503,32.8769596
+1153,Çankaya,Kazım Özalp Mahallesi,1.0,1,75,39000,39.8931202,32.8697628
+1154,Çankaya,Kazım Özalp Mahallesi,2.0,1,90,42000,39.8931202,32.8697628
+1155,Çankaya,Büyükesat Mahallesi,1.0,1,70,27000,39.8923503,32.8769596
+1156,Çankaya,Kazım Özalp Mahallesi,1.0,1,75,30000,39.8931202,32.8697628
+1157,Çankaya,Kazım Özalp Mahallesi,1.0,1,75,35000,39.8931202,32.8697628
+1158,Keçiören,Yayla Mahallesi,1.0,1,81,20000,39.9920925,32.8292426
+1159,Mamak,Zirvekent Mahallesi,1.0,1,65,9500,39.8583371,32.9676194
+1160,Çankaya,Birlik Mahallesi,5.0,1,280,50000,39.8793835,32.8801712
+1161,Mamak,Zirvekent Mahallesi,1.0,1,65,11000,39.8583371,32.9676194
+1162,Yenimahalle,Yunus Emre Mahallesi,3.0,1,135,27000,39.9683128,32.8124025
+1163,Çankaya,Anıttepe Mahallesi,3.0,1,100,27000,39.9314478,32.840637
+1164,Çankaya,Remzi Oğuz Arık Mahallesi,3.0,1,130,38000,39.9072111,32.8598419
+1165,Yenimahalle,Serhat Mahallesi,3.0,1,130,25000,39.9843715,32.7611521
+1166,Çankaya,Yukarı Dikmen Mahallesi,2.0,1,120,47000,39.8553094,32.845662
+1167,Çankaya,Ayrancı Mahallesi,7.0,1,450,82500,39.9028644,32.8498192
+1168,Çankaya,Harbiye Mahallesi,3.0,1,120,30000,39.8909554,32.838563
+1169,Keçiören,Osmangazi Mahallesi,3.0,1,115,13000,40.0137581,32.8604171
+1170,Keçiören,İncirli Mahallesi,3.0,1,105,19500,39.9845847,32.846361
+1171,Polatlı,Cumhuriyet Mahallesi,2.0,1,100,13000,39.5832328,32.1466362
+1172,Polatlı,Şehitlik Mahallesi,3.0,1,160,18500,39.5821905,32.1259406
+1173,Polatlı,Mehmet Akif Mahallesi,2.0,1,95,23500,39.5945776,32.1430935
+1174,Keçiören,Kuşcağız Mahallesi,3.0,1,125,14000,39.9946817,32.8518525
+1175,Etimesgut,Aşağıyurtçu Mahallesi,3.0,1,137,19000,39.8146837,32.5367159
+1176,Çankaya,Alacaatlı Mahallesi,1.0,1,60,25000,39.8478748,32.6747922
+1177,Etimesgut,Süvari Mahallesi,3.0,1,135,26000,39.9487007,32.6455548
+1178,Çankaya,Güzeltepe Mahallesi,2.0,1,95,35000,39.8842146,32.848704
+1179,Keçiören,Adnan Menderes Mahallesi,5.0,1,210,37500,40.0002536,32.8814829
+1180,Sincan,Andiçen Mahallesi,2.0,1,60,21000,39.9535468,32.5841885
+1181,Sincan,Hürriyet Mahallesi,1.0,1,55,9000,39.9429827,32.5899198
+1182,Çubuk,Yavuzselim Mahallesi,3.0,1,135,15000,40.2440734,33.040631
+1183,Keçiören,Ayvalı Mahallesi,2.0,1,90,19500,39.9833642,32.8182536
+1184,Mamak,Altınevler Mahallesi,3.0,1,142,27000,39.9508759,32.8943761
+1185,Etimesgut,İstasyon Mahallesi,3.0,1,130,21000,39.9469837,32.6633365
+1186,Gölbaşı,İncek Mahallesi,1.0,1,50,27500,39.8075431,32.6973502
+1187,Keçiören,Etlik Mahallesi,3.0,1,130,25250,39.9799604,32.8284002
+1188,Çankaya,Kocatepe Mahallesi,3.0,1,160,28000,39.9199852,32.8582095
+1189,Keçiören,Ayvalı Mahallesi,3.0,1,115,19000,39.9833642,32.8182536
+1190,Altındağ,Aydınlıkevler Mahallesi,2.0,1,105,24000,39.9627386,32.8748794
+1191,Polatlı,Kurtuluş Mahallesi,3.0,1,135,13000,39.5809187,32.1384644
+1192,Etimesgut,Alsancak Mahallesi,3.0,1,120,24000,39.9340199,32.6494081
+1193,Keçiören,Tepebaşı Mahallesi,1.0,1,90,25000,39.9844422,32.8610263
+1194,Çankaya,Remzi Oğuz Arık Mahallesi,1.0,1,50,35000,39.9072111,32.8598419
+1195,Mamak,Peyami Safa Mahallesi,3.0,1,130,19999,39.9204117,32.8946544
+1196,Altındağ,Hacı Bayram Mahallesi,2.0,1,80,19000,39.9432395,32.8568726
+1197,Yenimahalle,Yuvaköy Mahallesi,4.0,1,220,55000,40.0203817,32.7265363
+1198,Çankaya,Anıttepe Mahallesi,1.0,1,67,35000,39.9314478,32.840637
+1199,Altındağ,Örnek Mahallesi,1.0,1,75,11000,39.9561899,32.8728653
+1200,Pursaklar,Merkez Mahallesi,3.0,1,130,35000,40.0371641,32.8970859
+1201,Keçiören,Ayvalı Mahallesi,3.0,1,105,21000,39.9833642,32.8182536
+1202,Keçiören,Ayvalı Mahallesi,2.0,1,95,16000,39.9833642,32.8182536
+1203,Sincan,Yeniçimşit Mahallesi,1.0,1,65,16000,39.9501441,32.5529346
+1204,Keçiören,Basınevleri Mahallesi,2.0,1,72,18000,39.9696497,32.8531202
+1205,Polatlı,İstiklal Mahallesi,3.0,1,165,20000,39.576255,32.1576046
+1206,Etimesgut,Altay Mahallesi,3.0,1,110,43000,39.972489,32.6447493
+1207,Altındağ,Aydınlıkevler Mahallesi,3.0,1,110,26000,39.9627386,32.8748794
+1208,Keçiören,Yakacık Mahallesi,3.0,1,115,25000,39.9888014,32.867197
+1209,Polatlı,Şehitlik Mahallesi,3.0,1,135,14000,39.5821905,32.1259406
+1210,Polatlı,Şentepe Mahallesi,3.0,1,160,20500,39.5644641,32.1450555
+1211,Çankaya,Kızılay Mahallesi,4.0,1,130,45000,39.9215522,32.8517202
+1212,Keçiören,Osmangazi Mahallesi,3.0,1,120,16000,40.0137581,32.8604171
+1213,Çankaya,İlkbahar Mahallesi,2.0,1,115,35000,39.8621563,32.8585944
+1214,Çankaya,Arka Topraklık Mahallesi,3.0,1,115,32000,,
+1215,Keçiören,Ayvalı Mahallesi,3.0,1,130,18500,39.9833642,32.8182536
+1216,Yenimahalle,Esentepe Mahallesi,3.0,1,125,22000,39.9688422,32.8020938
+1217,Sincan,Osmanlı Mahallesi,3.0,1,120,17000,39.9479488,32.5819215
+1218,Altındağ,Aydınlıkevler Mahallesi,2.0,1,110,25000,39.9627386,32.8748794
+1219,Sincan,Gazi Osmanpaşa Mahallesi,3.0,1,110,17000,39.9924403,32.5793882
+1220,Mamak,Hüseyingazi Mahallesi,3.0,1,120,17000,39.9328255,32.9125214
+1221,Çankaya,Emek Mahallesi,3.0,1,110,36000,39.9222107,32.8174961
+1222,Çankaya,Emek Mahallesi,1.0,1,90,35000,39.9222107,32.8174961
+1223,Polatlı,Kurtuluş Mahallesi,3.0,1,130,13000,39.5809187,32.1384644
+1224,Gölbaşı,Taşpınar Mahallesi,1.0,1,62,20000,39.8306678,32.7588042
+1225,Etimesgut,Tunahan Mahallesi,1.0,1,50,18000,39.9860189,32.6232237
+1226,Keçiören,Atapark Mahallesi,3.0,1,120,18000,40.007897,32.844849
+1227,Yenimahalle,Mehmet Akif Ersoy Mahallesi,4.5,1,185,70000,39.9662907,32.7715145
+1228,Çankaya,Çiğdem Mahallesi,3.0,1,110,28000,39.8838377,32.8028892
+1229,Keçiören,Yayla Mahallesi,3.0,1,130,25600,39.9920925,32.8292426
+1230,Polatlı,Kurtuluş Mahallesi,2.0,1,123,17000,39.5809187,32.1384644
+1231,Polatlı,Şehitlik Mahallesi,1.0,1,65,21000,39.5821905,32.1259406
+1232,Polatlı,Zafer Mahallesi,3.0,1,130,15250,39.5781587,32.1419104
+1233,Polatlı,Cumhuriyet Mahallesi,3.0,1,140,18000,39.5832328,32.1466362
+1234,Pursaklar,Saray Fatih Mahallesi,3.0,1,140,25000,40.0786967,32.9204739
+1235,Polatlı,Şentepe Mahallesi,4.0,1,170,25000,39.5644641,32.1450555
+1236,Çankaya,Akpınar Mahallesi,3.0,1,160,43000,39.8660015,32.8121339
+1237,Etimesgut,Tunahan Mahallesi,3.0,1,120,35000,39.9860189,32.6232237
+1238,Çankaya,Kızılırmak Mahallesi,1.0,1,105,88000,39.9054617,32.8111203
+1239,Keçiören,Aşağı Eğlence Mahallesi,2.0,1,125,46000,39.9715857,32.8378467
+1240,Polatlı,Şentepe Mahallesi,3.0,1,160,18500,39.5644641,32.1450555
+1241,Polatlı,İstiklal Mahallesi,3.0,1,150,18000,39.576255,32.1576046
+1242,Polatlı,Gazi Mahallesi,3.0,1,150,17000,39.586444,32.1409014
+1243,Polatlı,İstiklal Mahallesi,3.0,1,150,18000,39.576255,32.1576046
+1244,Polatlı,Gazi Mahallesi,3.0,1,150,17000,39.586444,32.1409014
+1245,Etimesgut,Atayurt Mahallesi,2.0,1,95,25000,39.8419009,32.5398583
+1246,Gölbaşı,Karşıyaka Mahallesi,3.0,1,110,25000,39.7968532,32.7978875
+1247,Çankaya,Kazım Özalp Mahallesi,2.0,1,60,50000,39.8931202,32.8697628
+1248,Gölbaşı,İncek Mahallesi,1.0,1,54,25000,39.8075431,32.6973502
+1249,Çankaya,Oran Mahallesi,3.0,1,189,105000,39.8475718,32.8236051
+1250,Çankaya,Bayraktar Mahallesi,4.0,1,190,41000,39.9010321,32.8786122
+1251,Sincan,Pınarbaşı Mahallesi,3.0,1,120,18000,39.9494709,32.5704168
+1252,Gölbaşı,Örencik Mahallesi,1.0,1,52,23900,39.781067,32.834237
+1253,Keçiören,Kuşcağız Mahallesi,2.0,1,100,17500,39.9946817,32.8518525
+1254,Keçiören,Aşağı Eğlence Mahallesi,3.0,1,120,18000,39.9715857,32.8378467
+1255,Çankaya,Bahçelievler Mahallesi,2.0,1,75,28000,39.9278078,32.8264893
+1256,Çankaya,Mutlukent Mahallesi,3.0,1,125,36000,39.8907013,32.7084145
+1257,Etimesgut,Şehit Osman Avcı Mahallesi,2.0,1,95,35000,39.9792655,32.6539061
+1258,Çankaya,Hilal Mahallesi,4.0,1,185,80000,39.8688676,32.8560354
+1259,Etimesgut,Kazım Karabekir Mahallesi,3.0,1,110,22000,39.9486211,32.659962
+1260,Gölbaşı,İncek Mahallesi,1.0,1,48,17500,39.8075431,32.6973502
+1261,Etimesgut,Etiler Mahallesi,3.0,1,120,25000,39.951051,32.6652682
+1262,Keçiören,Pınarbaşı Mahallesi,3.0,1,110,17500,40.002022,32.86543
+1263,Gölbaşı,Karşıyaka Mahallesi,1.0,1,50,25000,39.7968532,32.7978875
+1264,Mamak,Şafaktepe Mahallesi,3.0,1,140,25000,39.9391045,32.8877333
+1265,Yenimahalle,Yunus Emre Mahallesi,3.0,1,135,27000,39.9683128,32.8124025
+1266,Çankaya,Kültür Mahallesi,2.0,0,140,49000,39.918059,32.8608941
+1267,Keçiören,Ayvalı Mahallesi,1.0,1,90,35000,39.9833642,32.8182536
+1268,Yenimahalle,Yunus Emre Mahallesi,3.0,1,140,55000,39.9683128,32.8124025
+1269,Çankaya,Meşrutiyet Mahallesi,4.0,1,115,23000,39.9176167,32.855373
+1270,Çankaya,Aşıkpaşa Mahallesi,2.0,1,110,28000,39.9094774,32.8831469
+1271,Sincan,Akşemsettin Mahallesi,3.0,1,100,18000,39.96683,32.5895634
+1272,Gölbaşı,Seğmenler Mahallesi,1.0,1,90,30000,,
+1273,Keçiören,Yayla Mahallesi,3.0,1,100,19500,39.9920925,32.8292426
+1274,Keçiören,Atapark Mahallesi,3.0,1,140,26000,40.007897,32.844849
+1275,Altındağ,Örnek Mahallesi,3.0,1,125,19000,39.9561899,32.8728653
+1276,Polatlı,Şehitlik Mahallesi,3.0,1,140,15000,39.5821905,32.1259406
+1277,Beypazarı,Başağaç Mahallesi,3.0,1,135,23000,40.1474991,31.907131
+1278,Keçiören,Hisar Mahallesi,4.0,2,230,19000,40.0484774,32.8398717
+1279,Çankaya,İlkbahar Mahallesi,4.5,1,234,65000,39.8621563,32.8585944
+1280,Pursaklar,Ayyıldız Mahallesi,2.0,1,75,13000,40.0276091,32.8903299
+1281,Sincan,Akşemsettin Mahallesi,2.0,1,100,19500,39.96683,32.5895634
+1282,Gölbaşı,İncek Mahallesi,1.0,1,42,17000,39.8075431,32.6973502
+1283,Gölbaşı,İncek Mahallesi,1.0,1,45,22000,39.8075431,32.6973502
+1284,Gölbaşı,İncek Mahallesi,1.0,1,45,19500,39.8075431,32.6973502
+1285,Çankaya,Ayrancı Mahallesi,3.0,1,135,37000,39.9028644,32.8498192
+1286,Gölbaşı,İncek Mahallesi,1.0,1,44,19500,39.8075431,32.6973502
+1287,Gölbaşı,Örencik Mahallesi,1.0,1,55,22750,39.781067,32.834237
+1288,Sincan,29 Ekim Mahallesi,2.0,1,90,17900,40.0130019,32.5308344
+1289,Çankaya,Oğuzlar Mahallesi,2.0,1,70,38000,39.9009169,32.8169743
+1290,Sincan,Plevne Mahallesi,1.0,0,150,20000,39.9649906,32.5972253
+1291,Yenimahalle,Yeni Batı Mahallesi,1.0,1,50,26000,39.9744626,32.6967138
+1292,Yenimahalle,Yeni Batı Mahallesi,1.0,1,50,24500,39.9744626,32.6967138
+1293,Etimesgut,Atakent Mahallesi,2.0,1,120,35000,39.9525155,32.6100851
+1294,Yenimahalle,Demetgül Mahallesi,3.0,1,145,23650,39.96265,32.7945377
+1295,Keçiören,Aşağı Eğlence Mahallesi,3.0,1,120,20000,39.9715857,32.8378467
+1296,Altındağ,Zübeyde Hanım Mahallesi,2.5,1,110,16000,39.9527403,32.8470761
+1297,Sincan,Osmanlı Mahallesi,3.0,1,120,20000,39.9479488,32.5819215
+1298,Keçiören,İncirli Mahallesi,3.0,1,120,17500,39.9845847,32.846361
+1299,Çankaya,Umut Mahallesi,2.0,1,80,28000,39.9058554,32.8746033
+1300,Keçiören,İncirli Mahallesi,3.0,1,120,17500,39.9845847,32.846361
+1301,Çankaya,Umut Mahallesi,2.0,1,80,28000,39.9058554,32.8746033
+1302,Çubuk,Esenboğa Merkez Mahallesi,1.0,1,50,14750,,
+1303,Sincan,İstasyon Mahallesi,3.0,1,125,35000,39.9697924,32.5821159
+1304,Sincan,Plevne Mahallesi,3.0,1,120,20000,39.9649906,32.5972253
+1305,Etimesgut,Şehit Osman Avcı Mahallesi,1.0,1,65,30000,39.9792655,32.6539061
+1306,Altındağ,Beşikkaya Mahallesi,3.0,1,110,14500,39.9700956,32.9476632
+1307,Etimesgut,30 Ağustos Mahallesi,2.0,1,90,21000,39.9435499,32.6558978
+1308,Etimesgut,Tunahan Mahallesi,1.0,1,69,25500,39.9860189,32.6232237
+1309,Etimesgut,Atakent Mahallesi,2.0,1,90,28000,39.9525155,32.6100851
+1310,Çankaya,Ayrancı Mahallesi,3.0,1,140,38000,39.9028644,32.8498192
+1311,Gölbaşı,İncek Mahallesi,5.0,1,228,54000,39.8075431,32.6973502
+1312,Çankaya,Konutkent Mahallesi,1.0,1,74,36000,39.877841,32.6679958
+1313,Gölbaşı,Taşpınar Mahallesi,2.0,1,128,37500,39.8306678,32.7588042
+1314,Çankaya,Konutkent Mahallesi,4.0,1,260,75000,39.877841,32.6679958
+1315,Çankaya,Yücetepe Mahallesi,3.0,1,110,36000,39.9207809,32.8408492
+1316,Keçiören,Yakacık Mahallesi,3.0,1,125,22000,39.9888014,32.867197
+1317,Keçiören,Şefkat Mahallesi,3.0,1,130,25000,39.977612,32.8741329
+1318,Keçiören,Esertepe Mahallesi,3.0,1,130,25000,39.9925408,32.8345423
+1319,Polatlı,Gazi Mahallesi,3.0,1,125,26000,39.586444,32.1409014
+1320,Keçiören,Ayvalı Mahallesi,3.0,1,120,20000,39.9833642,32.8182536
+1321,Gölbaşı,Taşpınar Mahallesi,1.0,1,60,20000,39.8306678,32.7588042
+1322,Çankaya,Beytepe Mahallesi,3.0,1,150,85000,39.8564127,32.7405291
+1323,Çankaya,Tınaztepe Mahallesi,3.0,1,120,27500,39.9152668,32.8639693
+1324,Çankaya,Kültür Mahallesi,3.0,1,150,30000,39.918059,32.8608941
+1325,Keçiören,Yükseltepe Mahallesi,5.0,1,240,50000,40.0006432,32.8077829
+1326,Etimesgut,Ahi Mesut Mahallesi,3.0,1,100,32000,39.9343671,32.6385704
+1327,Çankaya,Kazım Özalp Mahallesi,2.0,1,125,36000,39.8931202,32.8697628
+1328,Çankaya,Yukarı Bahçelievler Mahallesi,2.0,1,100,42000,39.9221083,32.8261127
+1329,Mamak,Balkiraz Mahallesi,2.0,1,75,26500,39.9324894,32.888608
+1330,Keçiören,Pınarbaşı Mahallesi,3.0,1,110,20000,40.002022,32.86543
+1331,Keçiören,Basınevleri Mahallesi,1.0,1,55,22500,39.9696497,32.8531202
+1332,Etimesgut,Yapracık Mahallesi,4.0,1,160,25000,39.865294,32.5817705
+1333,Mamak,Aşık Veysel Mahallesi,2.0,1,100,15000,39.9240176,32.8954237
+1334,Mamak,Peyami Safa Mahallesi,3.0,1,115,20000,39.9204117,32.8946544
+1335,Çankaya,Kızılırmak Mahallesi,4.0,1,220,65000,39.9054617,32.8111203
+1336,Çankaya,Alacaatlı Mahallesi,1.0,1,45,23500,39.8478748,32.6747922
+1337,Sincan,Menderes Mahallesi,3.0,1,160,34000,40.0053079,32.5305332
+1338,Çankaya,Kazım Özalp Mahallesi,2.0,1,90,24000,39.8931202,32.8697628
+1339,Etimesgut,Şehit Osman Avcı Mahallesi,1.0,1,70,25500,39.9792655,32.6539061
+1340,Yenimahalle,Yeni Batı Mahallesi,1.0,1,65,26250,39.9744626,32.6967138
+1341,Yenimahalle,Burç Mahallesi,5.0,1,280,41000,39.9874526,32.801643
+1342,Keçiören,Ovacık Mahallesi,4.5,1,170,53000,40.009709,32.8319878
+1343,Sincan,Hürriyet Mahallesi,3.0,1,130,14000,39.953579,32.5909807
+1344,Mamak,Balkiraz Mahallesi,3.0,1,120,22000,39.9324894,32.888608
+1345,Keçiören,Esertepe Mahallesi,6.0,1,270,36000,39.9925408,32.8345423
+1346,Çubuk,Esenboğa Merkez Mahallesi,1.0,1,65,15000,,
+1347,Çankaya,Hilal Mahallesi,2.0,1,155,62000,39.8688676,32.8560354
+1348,Keçiören,Ayvalı Mahallesi,4.0,1,170,25000,39.9833642,32.8182536
+1349,Çankaya,Öveçler Mahallesi,3.0,1,120,30000,39.8875322,32.8304861
+1350,Çankaya,Cebeci Mahallesi,3.0,1,120,29500,39.9325248,32.8781919
+1351,Pursaklar,Mimar Sinan Mahallesi,4.0,1,170,38500,40.032216,32.8860111
+1352,Gölbaşı,İncek Mahallesi,1.0,1,45,18000,39.8075431,32.6973502
+1353,Gölbaşı,İncek Mahallesi,1.0,1,55,16250,39.8075431,32.6973502
+1354,Gölbaşı,İncek Mahallesi,1.0,1,42,16000,39.8075431,32.6973502
+1355,Keçiören,Şefkat Mahallesi,3.0,1,120,25000,39.977612,32.8741329
+1356,Gölbaşı,İncek Mahallesi,1.0,1,50,28250,39.8075431,32.6973502
+1357,Yenimahalle,İnönü Mahallesi,1.0,1,60,31000,39.9533428,32.7219775
+1358,Etimesgut,Şehit Osman Avcı Mahallesi,2.0,1,100,25000,39.9792655,32.6539061
+1359,Yenimahalle,Aşağı Yahyalar Mahallesi,1.0,0,38,17750,39.9819708,32.7744614
+1360,Çankaya,Meşrutiyet Mahallesi,1.0,0,25,20000,39.9176167,32.855373
+1361,Çankaya,Aşıkpaşa Mahallesi,2.0,1,90,21000,39.9094774,32.8831469
+1362,Gölbaşı,Taşpınar Mahallesi,1.0,1,50,30000,39.8306678,32.7588042
+1363,Çankaya,Gaziosmanpaşa Mahallesi,2.0,1,140,55000,39.8971118,32.8661926
+1364,Çankaya,Büyükesat Mahallesi,4.0,1,200,40000,39.8923503,32.8769596
+1365,Çankaya,Kırkkonaklar Mahallesi,4.0,1,200,50000,39.8916442,32.8860421
+1366,Gölbaşı,İncek Mahallesi,2.0,1,55,26000,39.8075431,32.6973502
+1367,Gölbaşı,İncek Mahallesi,1.0,1,60,20000,39.8075431,32.6973502
+1368,Gölbaşı,İncek Mahallesi,1.0,1,47,17000,39.8075431,32.6973502
+1369,Gölbaşı,Taşpınar Mahallesi,1.0,1,45,18500,39.8306678,32.7588042
+1370,Gölbaşı,Taşpınar Mahallesi,2.0,1,70,34000,39.8306678,32.7588042
+1371,Çankaya,100. Yıl Mahallesi,3.0,1,150,47500,39.9005605,32.870189
+1372,Keçiören,Aşağı Eğlence Mahallesi,2.0,1,95,21000,39.9715857,32.8378467
+1373,Keçiören,Kuşcağız Mahallesi,3.0,1,130,21000,39.9946817,32.8518525
+1374,Çankaya,Kazım Özalp Mahallesi,2.0,1,110,42000,39.8931202,32.8697628
+1375,Altındağ,Aydınlıkevler Mahallesi,2.0,1,100,25000,39.9627386,32.8748794
+1376,Etimesgut,Yeşilova Mahallesi,4.0,1,165,50000,39.9647722,32.6045166
+1377,Çankaya,Alacaatlı Mahallesi,1.0,1,55,25350,39.8478748,32.6747922
+1378,Pursaklar,Ayyıldız Mahallesi,2.0,1,65,15000,40.0276091,32.8903299
+1379,Pursaklar,Ayyıldız Mahallesi,2.0,1,65,15000,40.0276091,32.8903299
+1380,Keçiören,Emrah Mahallesi,2.0,1,125,23500,39.974167,32.8460721
+1381,Gölbaşı,Örencik Mahallesi,2.0,1,87,25500,39.781067,32.834237
+1382,Çankaya,İlkbahar Mahallesi,3.0,1,130,41500,39.8621563,32.8585944
+1383,Çankaya,İlkbahar Mahallesi,1.0,1,80,35500,39.8621563,32.8585944
+1384,Çankaya,İşçi Blokları Mahallesi,3.0,1,110,50000,39.8935146,32.7982283
+1385,Çankaya,İlkbahar Mahallesi,1.0,1,80,35500,39.8621563,32.8585944
+1386,Çankaya,İşçi Blokları Mahallesi,3.0,1,110,50000,39.8935146,32.7982283
+1387,Çankaya,Alacaatlı Mahallesi,1.0,1,62,32000,39.8478748,32.6747922
+1388,Yenimahalle,Serhat Mahallesi,7.0,1,360,76500,39.9843715,32.7611521
+1389,Keçiören,Ayvalı Mahallesi,3.0,1,130,20000,39.9833642,32.8182536
+1390,Pursaklar,Saray Cumhuriyet Mahallesi,4.0,1,211,43500,40.073594,32.9354818
+1391,Yenimahalle,Burç Mahallesi,3.0,1,150,32500,39.9874526,32.801643
+1392,Gölbaşı,Kızılcaşar Mahallesi,1.0,1,60,28500,39.8227276,32.732967
+1393,Gölbaşı,İncek Mahallesi,2.0,1,100,26250,39.8075431,32.6973502
+1394,Gölbaşı,İncek Mahallesi,1.0,1,45,22000,39.8075431,32.6973502
+1395,Gölbaşı,İncek Mahallesi,1.0,1,45,23000,39.8075431,32.6973502
+1396,Gölbaşı,Kızılcaşar Mahallesi,1.0,0,35,24000,39.8227276,32.732967
+1397,Gölbaşı,İncek Mahallesi,1.0,1,50,21000,39.8075431,32.6973502
+1398,Çankaya,Emek Mahallesi,3.0,1,110,31000,39.9222107,32.8174961
+1399,Polatlı,Fatih Mahallesi,3.0,1,125,15000,39.5775119,32.129141
+1400,Yenimahalle,Susuz Mahallesi,4.0,1,174,41000,40.0204091,32.6551222
+1401,Çankaya,İlkbahar Mahallesi,2.0,1,123,52500,39.8621563,32.8585944
+1402,Altındağ,Battalgazi Mahallesi,3.0,1,120,16000,39.9667414,32.926961
+1403,Çankaya,Yaşamkent Mahallesi,2.0,1,75,30000,39.858413,32.6438736
+1404,Çankaya,Yaşamkent Mahallesi,1.0,1,45,20500,39.858413,32.6438736
+1405,Sincan,Fevzi Çakmak Mahallesi,3.0,1,130,23000,40.0128919,32.5172466
+1406,Mamak,Saimekadın Mahallesi,2.0,1,105,20000,39.9302955,32.8928929
+1407,Çankaya,İşçi Blokları Mahallesi,1.0,1,64,32000,39.8935146,32.7982283
+1408,Pursaklar,Saray Cumhuriyet Mahallesi,1.0,1,62,25000,40.073594,32.9354818
+1409,Çubuk,Esenboğa Merkez Mahallesi,1.0,1,58,10000,,
+1410,Sincan,Fatih Mahallesi,3.0,1,135,16999,39.9892521,32.5876386
+1411,Çankaya,Kültür Mahallesi,3.0,1,115,37500,39.918059,32.8608941
+1412,Mamak,Kusunlar Mahallesi,2.0,1,80,16000,39.887909,32.970974
+1413,Altındağ,Feridun Çelik Mahallesi,3.0,1,135,19000,39.976301,32.939114
+1414,Çankaya,Konutkent Mahallesi,1.0,1,50,33000,39.877841,32.6679958
+1415,Gölbaşı,Kızılcaşar Mahallesi,1.0,1,50,23000,39.8227276,32.732967
+1416,Yenimahalle,Çiğdemtepe Mahallesi,3.0,1,120,20000,39.9929077,32.7934763
+1417,Çankaya,Çamlıtepe Mahallesi,1.0,1,65,30000,39.9267691,32.8698635
+1418,Mamak,Balkiraz Mahallesi,2.0,1,85,17500,39.9324894,32.888608
+1419,Sincan,Hürriyet Mahallesi,3.0,1,134,12500,39.953579,32.5909807
+1420,Altındağ,Beşikkaya Mahallesi,3.0,1,125,18000,39.9700956,32.9476632
+1421,Çankaya,Balgat Mahallesi,2.0,1,100,35000,39.9090911,32.8174377
+1422,Etimesgut,Şeker Mahallesi,3.0,1,130,42000,39.966909,32.6601073
+1423,Keçiören,Ayvalı Mahallesi,2.0,1,105,17000,39.9833642,32.8182536
+1424,Çankaya,Konutkent Mahallesi,1.0,1,74,30500,39.877841,32.6679958
+1425,Keçiören,Aşağı Eğlence Mahallesi,3.0,1,125,22500,39.9715857,32.8378467
+1426,Çankaya,Aşağı Öveçler Mahallesi,3.0,1,130,44000,39.8893871,32.8266983
+1427,Altındağ,Zübeyde Hanım Mahallesi,3.0,1,130,22000,39.9527403,32.8470761
+1428,Gölbaşı,Seğmenler Mahallesi,2.0,1,89,35000,,
+1429,Pursaklar,Saray Fatih Mahallesi,1.0,1,52,16500,40.0786967,32.9204739
+1430,Çankaya,Kültür Mahallesi,2.0,1,110,37000,39.918059,32.8608941
+1431,Mamak,Mutlu Mahallesi,3.0,1,120,18500,39.906973,32.9037281
+1432,Çankaya,Çiğdem Mahallesi,3.0,1,110,39000,39.8838377,32.8028892
+1433,Kahramankazan,Atatürk Mahallesi,3.0,1,120,18500,40.203868,32.6792445
+1434,Altındağ,Battalgazi Mahallesi,4.0,1,260,26000,39.9667414,32.926961
+1435,Mamak,Tuzluçayır Mahallesi,3.0,1,110,18500,39.9237579,32.9071088
+1436,Keçiören,Aşağı Eğlence Mahallesi,3.0,1,120,25000,39.9715857,32.8378467
+1437,Çankaya,Sancak Mahallesi,1.0,1,75,29500,39.8722704,32.8632382
+1438,Polatlı,Cumhuriyet Mahallesi,3.0,1,150,12500,39.5832328,32.1466362
+1439,Çankaya,Kazım Özalp Mahallesi,2.0,1,70,50000,39.8931202,32.8697628
+1440,Çubuk,Yenice Mahallesi,1.0,1,55,16500,40.1146598,32.9776921
+1441,Keçiören,Bağlarbaşı Mahallesi,3.0,1,140,22000,39.9932896,32.8795626
+1442,Çankaya,Yukarı Bahçelievler Mahallesi,3.0,1,125,42000,39.9221083,32.8261127
+1443,Akyurt,Yıldırım Mahallesi,2.0,1,110,16000,40.122443,33.0759373
+1444,Keçiören,Ayvalı Mahallesi,3.0,1,120,19000,39.9833642,32.8182536
+1445,Çankaya,Alacaatlı Mahallesi,2.0,1,103,52000,39.8478748,32.6747922
+1446,Keçiören,Basınevleri Mahallesi,2.0,1,100,25000,39.9696497,32.8531202
+1447,Pursaklar,Saray Cumhuriyet Mahallesi,2.0,1,100,28500,40.073594,32.9354818
+1448,Altındağ,Aydınlıkevler Mahallesi,2.0,1,100,25000,39.9627386,32.8748794
+1449,Keçiören,Ayvalı Mahallesi,3.0,1,110,15750,39.9833642,32.8182536
+1450,Altındağ,Aydınlıkevler Mahallesi,2.0,1,115,22000,39.9627386,32.8748794
+1451,Keçiören,Sancaktepe Mahallesi,3.0,1,130,28000,39.9961177,32.8129904
+1452,Yenimahalle,Yeni Batı Mahallesi,2.5,1,110,44000,39.9744626,32.6967138
+1453,Çankaya,Osman Temiz Mahallesi,3.0,1,115,21500,39.8753379,32.8364438
+1454,Keçiören,Aşağı Eğlence Mahallesi,2.0,1,110,24000,39.9715857,32.8378467
+1455,Çankaya,Alacaatlı Mahallesi,1.0,1,50,25500,39.8478748,32.6747922
+1456,Keçiören,Aşağı Eğlence Mahallesi,3.0,1,110,22500,39.9715857,32.8378467
+1457,Keçiören,Aşağı Eğlence Mahallesi,3.0,1,120,19500,39.9715857,32.8378467
+1458,Altındağ,Aydınlıkevler Mahallesi,2.0,1,110,25000,39.9627386,32.8748794
+1459,Çankaya,Harbiye Mahallesi,3.0,1,120,20000,39.8909554,32.838563
+1460,Çankaya,Kazım Özalp Mahallesi,1.0,1,75,39000,39.8931202,32.8697628
+1461,Gölbaşı,Hacılar Mahallesi,3.0,1,120,42000,39.771655,32.7226391
+1462,Etimesgut,Şeker Mahallesi,2.0,1,110,33000,39.966909,32.6601073
+1463,Çankaya,İlkbahar Mahallesi,1.5,1,90,35000,39.8621563,32.8585944
+1464,Çankaya,Topraklık Mahallesi,1.0,0,60,25000,39.9229545,32.8720461
+1465,Çankaya,Maltepe Mahallesi,3.0,1,140,35000,39.9245796,32.845407
+1466,Etimesgut,Güzelkent Mahallesi,3.0,1,120,30000,39.9872497,32.6074042
+1467,Pursaklar,Fatih Mahallesi,3.0,1,127,23000,40.0400593,32.9014983
+1468,Çankaya,Yaşamkent Mahallesi,1.0,1,65,23500,39.858413,32.6438736
+1469,Gölbaşı,Bahçelievler Mahallesi,2.0,1,80,26000,39.789888,32.8072715
+1470,Mamak,Diriliş Mahallesi,2.0,1,90,27750,39.9514066,32.9017354
+1471,Gölbaşı,Hacılar Mahallesi,2.0,1,68,26500,39.771655,32.7226391
+1472,Gölbaşı,İncek Mahallesi,1.0,1,47,20000,39.8075431,32.6973502
+1473,Keçiören,Kuşcağız Mahallesi,3.0,1,120,16500,39.9946817,32.8518525
