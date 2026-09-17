@@ -1,47 +1,72 @@
-# Ankara House Prices Prediction 🏠
+# Ankara Kiralık Konut Fiyat Tahmini
 
-Bu proje, Ankara’daki kiralık evlerin fiyatlarını tahmin etmek için bir Machine Learning pipeline içerir. Kullanıcı Streamlit arayüzü üzerinden evin özelliklerini girerek tahmini fiyat alabilir.
+Ankara'daki kiralık konut ilanlarından veri toplayıp, konum ve fiziksel özelliklere
+göre kira tahmini yapan uçtan uca bir makine öğrenmesi projesi. Veri toplamadan
+web arayüzüne kadar tüm adımlar dahil.
 
-## Özellikler
+## Pipeline
 
-Kullanıcıdan alınan girdiler:
+```
+scraping/     ilan verisi toplama
+     │
+     ▼
+notebooks/    keşifsel veri analizi, temizlik, öznitelik mühendisliği
+     │
+     ▼
+src/          model eğitimi + hiperparametre optimizasyonu
+     │
+     ▼
+*.pkl         eğitilmiş scikit-learn pipeline
+     │
+     ▼
+app.py        Streamlit arayüzü
+```
 
-İlçe (County)
+## Model
 
-Metrekare (m²)
+**Algoritma:** GradientBoostingRegressor (hiperparametre optimizasyonu yapılmış)
 
-Oda sayısı (Room)
+**Öznitelikler:** İlçe · Metrekare · Oda sayısı · Salon sayısı
 
-Salon sayısı (Saloon)
+Ön işleme adımları (kategorik kodlama, ölçekleme) tek bir scikit-learn
+`Pipeline` nesnesinde toplandı; böylece eğitim ve çıkarım arasında dönüşüm
+tutarsızlığı riski ortadan kaldırıldı.
 
-Tahmin modeli: GradientBoostingRegressor (hiperparametre tuning ile)
+### Performans
 
+| Metrik | Değer |
+|---|---|
+| R² (test) | 0.73215 |
+| RMSE | 6763.44772 |
 
-## Kurulum
+Öznitelik önem sıralaması: `feature_importance.png`
+
+## Kurulum ve çalıştırma
 
 ```bash
-# Ortam oluşturma
-python3 -m venv scraping_env
-source scraping_env/bin/activate  # Windows için: scraping_env\Scripts\activate
-
-# Gereksinimleri yükleme
+python3 -m venv venv
+source venv/bin/activate        # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
-
-```
-## Çalıştırma
-
-```bash
-
 streamlit run app.py
-
 ```
-Sol panelden evin özelliklerini girin.
 
-Tahmini fiyat ekranda görüntülenecektir.
+Sol panelden konut özelliklerini girin; tahmini kira ekranda görünür.
 
-## Limitasyonlar ⚠️
+## Sınırlamalar
 
-Dataset yeterli değil; bazı kritik özellikler (bina yaşı, metroya yakınlık vb.) yok.
+Bu model referans amaçlıdır, ticari kullanıma uygun değildir:
 
-Veri dağılımı dengesiz; bu nedenle tahminler referans amaçlıdır ve ticari olarak kullanılmaya uygun değildir!
+- **Eksik öznitelikler.** Bina yaşı, kat, ısıtma tipi, toplu taşımaya mesafe gibi
+  kira üzerinde belirleyici olan değişkenler veri setinde yok. Model bunların
+  etkisini metrekare ve ilçe üzerinden dolaylı öğrenmeye çalışıyor.
+- **Dengesiz dağılım.** İlçe bazında ilan sayıları eşit değil; az temsil edilen
+  ilçelerde tahmin güvenilirliği düşük.
+- **Zaman boyutu yok.** Veri tek bir zaman kesitinden toplandı; enflasyon ve
+  sezonsallık modellenmedi.
+
+## Geliştirme fikirleri
+
+- Koordinat bazlı özellikler (metro/merkeze mesafe) eklemek
+- İlçe yerine mahalle kırılımına inmek
+- Tahminlerle birlikte güven aralığı sunmak (quantile regression)
