@@ -39,7 +39,9 @@ tutarsızlığı riski ortadan kaldırıldı.
 | R² (test) | 0.73215 |
 | RMSE | 6763.44772 |
 
-Öznitelik önem sıralaması: `feature_importance.png`
+Öznitelik önem sıralaması:
+
+[FeatureImportance](feature_importance.png)
 
 ## Kurulum ve çalıştırma
 
