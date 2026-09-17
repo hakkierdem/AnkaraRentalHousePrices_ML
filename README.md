@@ -41,7 +41,7 @@ tutarsızlığı riski ortadan kaldırıldı.
 
 Öznitelik önem sıralaması:
 
-[FeatureImportance](feature_importance.png)
+![FeatureImportance](feature_importance.png)
 
 ## Kurulum ve çalıştırma
 
